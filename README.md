@@ -23,7 +23,7 @@ I enjoy exploring the intersection of **AI, engineering, and accessibility**, an
   *Test it out yourself [here](https://colab.research.google.com/drive/1pHiw6OKHFPuaUIHw2aJkLGNz1k-cHXLt?usp=sharing).*
 
 - **[Pixelate](https://github.com/Akhan521/Pixelate)**  
-  A **colorblind-friendly pixel-art editor** with an AI assistant (`Pixi`), real-time **colorblind-friendly** filters, and an accessible, intuitive interface.
+  A **colorblind-friendly pixel-art editor** with an AI assistant (`Pixi`), real-time **colorblind-friendly** filters, and an accessible, intuitive interface.  
   *View our demo [here](https://github.com/Akhan521/Pixelate?tab=readme-ov-file#-pixelate-in-action).*
 
 ---
