@@ -8,7 +8,7 @@ I enjoy exploring the intersection of **AI, engineering, and accessibility**, an
 ### 👨🏽‍🎓 About Me
 - **Aspiring AI & ML Engineer**: I focus on building and learning with **AI & ML** (LLMs, Gen. AI, Model Efficiency, etc.) 
 - **Software Engineer**: I enjoy building **full-stack apps, intelligent tools, and friendly user experiences**.  
-- **Engineering for Good**: My goal is to create projects that are technically impressive in addition to being **helpful and accessible to others**.  
+- **Engineering for Good**: My goal is to create projects that are technically impressive while being **helpful and accessible to others**.  
 - **Beyond Code**: I’m into **reading, building LEGO, going for coffee runs, and gaming**, which keep me curious and inspired.  
 
 ---
