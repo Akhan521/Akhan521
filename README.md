@@ -6,10 +6,10 @@ I enjoy exploring the intersection of **AI, engineering, and accessibility**, an
 
 
 ### 👨🏽‍🎓 About Me
-- 🧠 **Aspiring AI & ML Engineer**: I focus on building and learning with **AI & ML** (LLMs, Gen. AI, Model Efficiency, etc.) 
-- 💻 **Software Engineer at ❤️**: I enjoy building **full-stack apps, intelligent tools, and friendly user experiences**.  
-- 🌱 **Engineering for Good**: My goal is to create projects that are both technically impressive and **helpful and accessible to others**.  
-- 🎮 **Beyond Code**: I’m into **reading, building LEGO, going for coffee runs, and gaming**, which keep me curious and inspired.  
+- **Aspiring AI & ML Engineer**: I focus on building and learning with **AI & ML** (LLMs, Gen. AI, Model Efficiency, etc.) 
+- **Software Engineer**: I enjoy building **full-stack apps, intelligent tools, and friendly user experiences**.  
+- **Engineering for Good**: My goal is to create projects that are technically impressive in addition to being **helpful and accessible to others**.  
+- **Beyond Code**: I’m into **reading, building LEGO, going for coffee runs, and gaming**, which keep me curious and inspired.  
 
 ---
 
@@ -31,7 +31,9 @@ I enjoy exploring the intersection of **AI, engineering, and accessibility**, an
 ### 🔎 What I’m Learning & Exploring
 - **Deep Learning** Specialization (DeepLearning.AI)
 - Advanced **LLM Fine-Tuning** and **Alignment Techniques** (LoRA, PEFT, RAG)  
-- **Efficient ML Engineering** with Quantization and Low-Resource Training  
+- **Efficient ML Engineering** with Quantization and Low-Resource Training
+- Sequence Models & Their Applications
+- Multi-Modal ML Systems
 - **AI for Creative Tools**, Accessibility, and Real-World Applications  
 
 ---
