@@ -26,15 +26,20 @@ I enjoy exploring the intersection of **AI, engineering, and accessibility**, an
   A **colorblind-friendly pixel-art editor** with an AI assistant (`Pixi`), real-time **colorblind-friendly** filters, and an accessible, intuitive interface.  
   *View our demo [here](https://github.com/Akhan521/Pixelate?tab=readme-ov-file#-pixelate-in-action).*
 
+- **[Reddit Crawler](https://github.com/Akhan521/Reddit-Crawler)**  
+  Engineered a robust **Reddit crawler and search engine** that **scraped, cleaned, and enriched 500MB+** of
+  real-time subreddit data with **multi-threading** support, improving crawl throughput by 4× via parallelization.  
+  *View our demo [here](https://github.com/Akhan521/Reddit-Crawler?tab=readme-ov-file#%EF%B8%8F-demo).*
+  
 ---
 
 ### 🔎 What I’m Learning & Exploring
-- **Deep Learning** Specialization (DeepLearning.AI)
-- Advanced **LLM Fine-Tuning** and **Alignment Techniques** (LoRA, PEFT, RAG)  
+- **Deep Learning & Agentic AI**
+- **Multi-Agent Systems** with CrewAI and LangChain
+- **Deep Agents** with LangChain
+- **Multi-Modal** AI/ML Systems
 - **Efficient ML Engineering** with Quantization and Low-Resource Training
-- Sequence Models & Their Applications
-- Multi-Modal ML Systems
-- **AI for Creative Tools**, Accessibility, and Real-World Applications  
+- **AI for Creative Tools**, Accessibility, and Real-World AI-Applications  
 
 ---
 
