@@ -14,8 +14,12 @@ I enjoy exploring the intersection of **AI, engineering, and accessibility**, an
 ---
 
 ### 🛠️ A Glimpse Into My Projects
+- **[Snaption](https://github.com/Akhan521/Snaption)**  
+  Explored **multi-modal ML** and built an **end-to-end image captioning system** with PyTorch to generate natural language descriptions of images. Trained on **Flickr8k (8K images)**, tackling hyperparameter tuning, overfitting prevention, and data augmentation strategies.  
+  *View my demo [here](https://github.com/Akhan521/Snaption?tab=readme-ov-file#-demo) and read about my project [here](https://github.com/Akhan521/Snaption/blob/main/README.md).*
+  
 - **[Text2SQL LLaMA Analyst](https://github.com/Akhan521/Text2SQL-LLaMA-Analyst)**  
-  Fine-tuned `LLaMA-2-7B` to translate natural language into SQL queries using **LoRA + 4-bit quantization**.  
+  Fine-tuned `LLaMA-2-7B` to translate natural language descriptions into structured, SQL queries using parameter-efficient fine-tuning techniques: **LoRA + 4-bit quantization**.  
   *Includes a zero-setup [Colab Demo](https://colab.research.google.com/drive/1ISQ9jpYCEMQQ6WSKRqF60p3ZIEsJuuFo?usp=sharing)*
 
 - **[GPT From Scratch](https://github.com/Akhan521/GPT-From-Scratch)**  
@@ -23,7 +27,7 @@ I enjoy exploring the intersection of **AI, engineering, and accessibility**, an
   *Test it out yourself [here](https://colab.research.google.com/drive/1pHiw6OKHFPuaUIHw2aJkLGNz1k-cHXLt?usp=sharing).*
 
 - **[Pixelate](https://github.com/Akhan521/Pixelate)**  
-  A **colorblind-friendly pixel-art editor** with an AI assistant (`Pixi`), real-time **colorblind-friendly** filters, and an accessible, intuitive interface.  
+  Developed a **colorblind-friendly pixel-art editor** with an AI assistant (`Pixi`), real-time **colorblind-friendly** filters, and an accessible, intuitive interface for artists.  
   *View our demo [here](https://github.com/Akhan521/Pixelate?tab=readme-ov-file#-pixelate-in-action).*
 
 - **[Reddit Crawler](https://github.com/Akhan521/Reddit-Crawler)**  
