@@ -1,6 +1,6 @@
 ## Hi there, I'm Aamir Khan👋🏼
 
-I’m a **Computer Science B.S. + M.S. student at UC Riverside** interested in **Machine Learning, Generative AI, building software, and engineering for good**. 
+I’m a **Computer Science B.S. + M.S. student at UC Riverside** interested in **Machine Learning, Generative AI, building thoughtful software, and engineering for good**. 
 
 I enjoy exploring the intersection of **AI, engineering, and accessibility**, and I love turning ideas into fun and impactful projects.
 
@@ -39,8 +39,9 @@ I enjoy exploring the intersection of **AI, engineering, and accessibility**, an
 
 ### 🔎 What I’m Learning & Exploring
 - **Deep Learning & Agentic AI**
+- **Reinforcement Learning**
 - **Multi-Agent Systems** with CrewAI and LangChain
-- **Deep Agents** with LangChain
+- **LangChain & LangGraph** Foundations 
 - **Multi-Modal** AI/ML Systems
 - **Efficient ML Engineering** with Quantization and Low-Resource Training
 - **AI for Creative Tools**, Accessibility, and Real-World AI-Applications  
