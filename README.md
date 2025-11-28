@@ -2,14 +2,14 @@
 
 I’m a **Computer Science B.S. + M.S. student at UC Riverside** interested in **Machine Learning, Deep Learning, Generative AI, building thoughtful software, and engineering for good**. 
 
-I enjoy exploring the intersection of **AI, engineering, and accessibility**, and I love turning ideas into fun and impactful projects.
+I enjoy exploring the intersection of **AI, engineering, and accessibility**, and I love turning my ideas into fun and impactful projects.
 
 
 ### 👨🏽‍🎓 About Me
-- **Aspiring AI & ML Engineer**: I focus on building and learning with **AI & ML** (LLMs, Gen. AI, Model Efficiency, etc.) 
-- **Software Engineer**: I enjoy building **full-stack apps, intelligent tools, and friendly user experiences**.  
+- **Aspiring AI & ML Engineer**: I focus on building and learning with **AI & ML** (LLMs, Gen. AI, Multimodal AI, DL, RL, AI agents, etc.) 
+- **Software Engineer**: I enjoy building **AI-driven apps, intelligent tools, and friendly user experiences**.  
 - **Engineering for Good**: My goal is to create projects that are technically impressive while being **helpful and accessible to others**.  
-- **Beyond Code**: I’m into **reading, building LEGO, going for coffee runs, and gaming**, which keep me curious and inspired.  
+- **Beyond Code**: I’m into **boba, reading, skating, building LEGO, going for coffee runs, and gaming**, which keep me curious and inspired.  
 
 ---
 
@@ -53,5 +53,5 @@ I enjoy exploring the intersection of **AI, engineering, and accessibility**, an
 - **Learning:** [coursera.org/learner/aamir-khan-0365](https://www.coursera.org/learner/aamir-khan-0365)  
 - **Email:** akhan197@ucr.edu
 
-> My end goal is to leverage AI/ML and software-engineering to solve complex, interesting problems that will help millions around the world.
+> My end goal is to leverage AI/ML and AI-engineering to solve complex, interesting problems that will help millions around the world.
 
