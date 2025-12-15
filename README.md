@@ -2,11 +2,11 @@
 
 I’m a **Computer Science B.S. + M.S. student at UC Riverside** interested in **Machine Learning, Deep Learning, AI Agents, Generative AI, building thoughtful software, and engineering for good**. 
 
-I enjoy exploring the intersection of **AI, engineering, and accessibility**, and I love turning my ideas into fun and impactful projects.
+I enjoy exploring the intersection of **AI, thoughtful software design + engineering, and accessibility**; I particularly love turning my ideas into fun and impactful projects to benefit others.
 
 
 ### 👨🏽‍🎓 About Me
-- **Aspiring AI & ML Engineer**: I focus on building and learning with **AI & ML** (LLMs, Gen. AI, Multimodal AI, DL, RL, AI agents, etc.) 
+- **Aspiring AI/ML Engineer**: I focus on building and learning with **AI & ML** (LLMs, Gen. AI, Multimodal AI, DL, RL, AI agents, etc.) 
 - **Software Engineer**: I enjoy building **AI-driven apps, intelligent tools, and friendly user experiences**.  
 - **Engineering for Good**: My goal is to create projects that are technically impressive while being **helpful and accessible to others**.  
 - **Beyond Code**: I’m into **boba, reading, skating, building LEGO, going for coffee runs, and gaming**, which keep me curious and inspired.  
