@@ -42,7 +42,8 @@ I enjoy exploring the intersection of **AI, thoughtful software design + enginee
 - **Reinforcement Learning**
 - **LangChain & LangGraph** Foundations 
 - **Multi-Modal** AI/ML Systems
-- **AI for Creative Workflows**, Accessibility, and Real-World AI-Applications  
+- **AI Engineering** Applications
+- **AI for Creative Workflows** and Developer Productivity Tools
 
 ---
 
@@ -50,7 +51,7 @@ I enjoy exploring the intersection of **AI, thoughtful software design + enginee
 - **Portfolio:** [aamir-khans-portfolio.vercel.app](https://aamir-khans-portfolio.vercel.app/)  
 - **LinkedIn:** [linkedin.com/in/aamir-khan-aak521](https://www.linkedin.com/in/aamir-khan-aak521/)  
 - **Learning:** [coursera.org/learner/aamir-khan-0365](https://www.coursera.org/learner/aamir-khan-0365)  
-- **Email:** akhan197@ucr.edu
+- **Email:** akhan197@ucr.edu | aamirksfg@gmail.com
 
-> My end goal is to leverage AI/ML and AI engineering to solve complex, interesting problems that will help millions around the world and help us live more productive lives!
+> My goal is to leverage AI/ML and AI engineering to solve complex, interesting problems that will help millions around the world and help us live more productive lives!
 
