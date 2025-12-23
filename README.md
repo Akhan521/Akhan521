@@ -1,15 +1,15 @@
 ## Hi there, I'm Aamir Khan👋🏼
 
-I’m a **Computer Science B.S. + M.S. student at UC Riverside** interested in **Machine Learning, Deep Learning, AI Agents, Generative AI, building thoughtful software, and engineering for good**. 
+I’m a **Computer Science B.S. + M.S. student at UC Riverside**, expected to graduate in December 2026, interested in **Machine Learning, Deep Learning, AI Agents, Generative AI, building thoughtful software, and engineering for good**. 
 
-I enjoy exploring the intersection of **AI, thoughtful software design + engineering, and accessibility**; I particularly love turning my ideas into fun and impactful projects to benefit others.
+My work touches upon the intersection of **AI, thoughtful software design + engineering, and accessibility**; I particularly love turning my ideas into fun and impactful projects to benefit others. I'm an AI Trainer with Handshake AI and an AI product tester with DeepLearning.AI, where I focus on improving AI education through thoughtful course design and project experiences. I also spend my weekends teaching as an Islamic Studies Instructor at Institute of Knowledge (IOK), where I love cultivating a supportive and growth-driven learning environment around Islam and what it means to live life as a Muslim in peace.
 
 
 ### 👨🏽‍🎓 About Me
-- **Aspiring AI/ML Engineer**: I focus on building and learning with **AI & ML** (LLMs, Gen. AI, Multimodal AI, DL, RL, AI agents, etc.) 
+- **Aspiring AI/ML Engineer**: I focus on building and learning with **AI & ML** (LLMs, Gen. AI, Multimodal AI, DL, RL, AI agents, etc.)
 - **Software Engineer**: I enjoy building **AI-driven apps, intelligent tools, and friendly user experiences**.  
 - **Engineering for Good**: My goal is to create projects that are technically impressive while being **helpful and accessible to others**.  
-- **Beyond Code**: I’m into **boba, reading, skating, building LEGO, going for coffee runs, and gaming**, which keep me curious and inspired.  
+- **Beyond Code**: I’m obsessed with **boba, reading, skating, building LEGO, going for coffee runs, and gaming**, which keep me curious and inspired.  
 
 ---
 
@@ -41,7 +41,7 @@ I enjoy exploring the intersection of **AI, thoughtful software design + enginee
 - **Deep Learning & Agentic AI**
 - **Reinforcement Learning**
 - **LangChain & LangGraph** Foundations 
-- **Multi-Modal** AI/ML Systems
+- **Multi-Modal** and **Multi-Agent** ML Systems
 - **AI Engineering** Applications
 - **AI for Creative Workflows** and Developer Productivity Tools
 
@@ -53,5 +53,5 @@ I enjoy exploring the intersection of **AI, thoughtful software design + enginee
 - **Learning:** [coursera.org/learner/aamir-khan-0365](https://www.coursera.org/learner/aamir-khan-0365)  
 - **Email:** akhan197@ucr.edu | aamirksfg@gmail.com
 
-> My goal is to leverage AI/ML and AI engineering to solve complex, interesting problems that will help millions around the world and help us live more productive lives!
+> I'd love to use AI/ML and AI engineering to solve complex, interesting problems that will help us live more productive lives! My dream is to build AI tools that have the potential to help millions around the world and improve our quality of life as developers and learners.
 
