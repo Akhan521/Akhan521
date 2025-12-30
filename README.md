@@ -4,10 +4,16 @@ I’m a **Computer Science B.S. + M.S. student at UC Riverside**, expected to gr
 
 My work touches upon the intersection of **AI, thoughtful software design + engineering, and accessibility**; I particularly love turning my ideas into fun and impactful projects to benefit others. I'm an AI Trainer with Handshake AI and an AI product tester with DeepLearning.AI, where I focus on improving AI education through thoughtful course design and project experiences. I also spend my weekends teaching as an Islamic Studies Instructor at Institute of Knowledge (IOK), where I love cultivating a supportive and growth-driven learning environment around Islam and what it means to live life as a Muslim in peace.
 
+Here are a few AI courses I've directly contributed to and helped launch with DeepLearning.AI:
+1. [Multi-AI Agent Systems with crewAI](https://learn.deeplearning.ai/courses/multi-ai-agent-systems-with-crewai/)
+2. [Long-Term Agentic Memory with LangGraph](https://learn.deeplearning.ai/courses/long-term-agentic-memory-with-langgraph/) 
+3. [Semantic Caching for AI Agents with Redis](https://learn.deeplearning.ai/courses/semantic-caching-for-ai-agents/)
+4. [Jupyter-AI Coding in Notebooks](https://learn.deeplearning.ai/courses/jupyter-ai-coding-in-notebooks/lesson/5330udp0/introduction)
+
 
 ### 👨🏽‍🎓 About Me
 - **Aspiring AI/ML Engineer**: I focus on building and learning with **AI & ML** (LLMs, Gen. AI, Multimodal AI, DL, RL, AI agents, etc.)
-- **Software Engineer**: I enjoy building **AI-driven apps, intelligent tools, and friendly user experiences**.  
+- **Software Engineer**: I enjoy building **full-stack apps, intelligent tools, and friendly user experiences**.  
 - **Engineering for Good**: My goal is to create projects that are technically impressive while being **helpful and accessible to others**.  
 - **Beyond Code**: I’m obsessed with **boba, reading, skating, building LEGO, going for coffee runs, and gaming**, which keep me curious and inspired.  
 
