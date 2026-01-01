@@ -2,7 +2,7 @@
 
 I’m a **Computer Science B.S. + M.S. student at UC Riverside**, expected to graduate in December 2026, interested in **Machine Learning, Deep Learning, AI Agents, Generative AI, building thoughtful software, and engineering for good**. 
 
-My work touches upon the intersection of **AI, thoughtful software design + engineering, and accessibility**; I particularly love turning my ideas into fun and impactful projects to benefit others. I'm an AI Trainer with Handshake AI and an AI product tester with DeepLearning.AI, where I focus on improving AI education through thoughtful course design and project experiences. I also spend my weekends teaching as an Islamic Studies Instructor at Institute of Knowledge (IOK), where I love cultivating a supportive and growth-driven learning environment around Islam and what it means to live life as a Muslim in peace.
+My work touches upon the intersection of **AI, thoughtful software design + engineering, and accessibility**; I particularly love turning my ideas into fun and impactful projects to benefit others. I'm an AI Trainer with [Handshake AI](https://joinhandshake.com/fellowship-program/referral/?referralCode=EBF4D5) and an AI product tester with [DeepLearning.AI](https://www.linkedin.com/in/aamir-khan-aak521/overlay/1767041499624/single-media-viewer?type=LINK&profileId=ACoAADqdK7wBX-esz3UR1KyfoBLx0KY4uax57fI&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BRzoEtx7JQveXsxVW6YEORA%3D%3D), where I focus on improving AI education through thoughtful course design and project experiences. I also spend my weekends teaching as an Islamic Studies Instructor at [Institute of Knowledge (IOK)](https://instituteofknowledge.com/), where I love cultivating a supportive and growth-driven learning environment for my students around Islam and what it means to live life as a Muslim in peace.
 
 Here are a few AI courses I've directly contributed to and helped launch with DeepLearning.AI:
 1. [Multi-AI Agent Systems with crewAI](https://learn.deeplearning.ai/courses/multi-ai-agent-systems-with-crewai/)
@@ -56,7 +56,8 @@ Here are a few AI courses I've directly contributed to and helped launch with De
 ### 🫱🏽‍🫲🏼 Let’s Connect!
 - **Portfolio:** [aamir-khans-portfolio.vercel.app](https://aamir-khans-portfolio.vercel.app/)  
 - **LinkedIn:** [linkedin.com/in/aamir-khan-aak521](https://www.linkedin.com/in/aamir-khan-aak521/)  
-- **Learning:** [coursera.org/learner/aamir-khan-0365](https://www.coursera.org/learner/aamir-khan-0365)  
+- **Learning:** [coursera.org/learner/aamir-khan-0365](https://www.coursera.org/learner/aamir-khan-0365)
+- **Resume:** [drive.google.com/file/d/1PrH3AKYS2jmBpvbnd091-TFjmjRBFDBX/view](https://drive.google.com/file/d/1PrH3AKYS2jmBpvbnd091-TFjmjRBFDBX/view)
 - **Email:** akhan197@ucr.edu | aamirksfg@gmail.com
 
 > I'd love to use AI/ML and AI engineering to solve complex, interesting problems that will help us live more productive lives! My dream is to build AI tools that have the potential to help millions around the world and improve our quality of life as developers and learners.
