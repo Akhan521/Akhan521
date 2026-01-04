@@ -44,12 +44,12 @@ Here are a few AI courses I've directly contributed to and helped launch with De
 ---
 
 ### 🔎 What I’m Learning & Exploring
-- **Deep Learning & Agentic AI**
-- **Reinforcement Learning**
+- **Deep Learning** & **Agentic AI**
 - **LangChain & LangGraph** Foundations 
 - **Multi-Modal** and **Multi-Agent** ML Systems
 - **AI Engineering** Applications
 - **AI for Creative Workflows** and Developer Productivity Tools
+- **Backend** Engineering
 
 ---
 
