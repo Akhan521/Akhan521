@@ -57,7 +57,7 @@ Here are a few AI courses I've directly contributed to and helped launch with De
 - **Portfolio:** [aamir-khans-portfolio.vercel.app](https://aamir-khans-portfolio.vercel.app/)  
 - **LinkedIn:** [linkedin.com/in/aamir-khan-aak521](https://www.linkedin.com/in/aamir-khan-aak521/)  
 - **Learning:** [coursera.org/learner/aamir-khan-0365](https://www.coursera.org/learner/aamir-khan-0365)
-- **Resume:** [drive.google.com/file/d/1PrH3AKYS2jmBpvbnd091-TFjmjRBFDBX/view](https://drive.google.com/file/d/1PrH3AKYS2jmBpvbnd091-TFjmjRBFDBX/view)
+- **Resume:** [drive.google.com/file/d/10sh8OCvhQI6_4GU20ILLg7g3h8x6r55r/view](https://drive.google.com/file/d/10sh8OCvhQI6_4GU20ILLg7g3h8x6r55r/view)
 - **Email:** akhan197@ucr.edu | aamirksfg@gmail.com
 
 > I'd love to use AI/ML and AI engineering to solve complex, interesting problems that will help us live more productive lives! My dream is to build AI tools that have the potential to help millions around the world and improve our quality of life as developers and learners.
