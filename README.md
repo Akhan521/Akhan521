@@ -1,9 +1,9 @@
 ## Hi there, I'm Aamir Khan👋🏼
 
-I’m a **Computer Science B.S. + M.S. student at UC Riverside**, expected to graduate in December 2026, interested in **Machine Learning, Deep Learning, AI Agents, Generative AI, building thoughtful software, and engineering for good**.
-> I'm currently seeking AI/ML internships for Summer 2026, so please feel free to reach out with any opportunities or advice on how I can grow with you!
+I’m a **Computer Science B.S./M.S. student at UC Riverside** (graduating in December 2026), interested in **Machine Learning, Deep Learning, AI Agents, Generative AI, building thoughtful software, and engineering for good**.
+> I'm actively seeking AI/ML internships for Summer and Fall 2026, so please feel free to reach out with any opportunities or advice! If my profile is a good fit, I would be grateful to get in touch and have a conversation about how I can grow with you soon. 
 
-My work touches upon the intersection of **AI, thoughtful software design + engineering, and accessibility**; I particularly love turning my ideas into fun and impactful projects to benefit others. I'm an AI Trainer with [Handshake AI](https://joinhandshake.com/fellowship-program/referral/?referralCode=EBF4D5) and an AI product tester with [DeepLearning.AI](https://www.linkedin.com/in/aamir-khan-aak521/overlay/1767041499624/single-media-viewer?type=LINK&profileId=ACoAADqdK7wBX-esz3UR1KyfoBLx0KY4uax57fI&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BRzoEtx7JQveXsxVW6YEORA%3D%3D), where I focus on improving AI education through thoughtful course design and project experiences. I also spend my weekends teaching as an Islamic Studies Instructor at [Institute of Knowledge (IOK)](https://instituteofknowledge.com/), where I love cultivating a supportive and growth-driven learning environment for my students around Islam and what it means to live life as a Muslim in peace.
+My work touches upon the intersection of **AI, thoughtful software design + engineering, and accessibility**; I particularly love turning my ideas into fun and impactful projects to benefit others. I'm an AI Trainer with [Handshake AI](https://joinhandshake.com/fellowship-program/referral/?referralCode=EBF4D5) and an AI product tester with [DeepLearning.AI](https://www.linkedin.com/in/aamir-khan-aak521/overlay/1767041499624/single-media-viewer?type=LINK&profileId=ACoAADqdK7wBX-esz3UR1KyfoBLx0KY4uax57fI&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BRzoEtx7JQveXsxVW6YEORA%3D%3D), where I focus on improving AI education through thoughtful course design and project experiences. I also spend my weekends teaching as an Islamic Studies Instructor at [Institute of Knowledge (IOK)](https://instituteofknowledge.com/), where I love cultivating a supportive and growth-driven learning environment for my students around Islam and what it means to live a peaceful life as a Muslim.
 
 Here are a few AI courses I've directly contributed to and helped launch with DeepLearning.AI:
 1. [Multi-AI Agent Systems with crewAI](https://learn.deeplearning.ai/courses/multi-ai-agent-systems-with-crewai/)
@@ -47,7 +47,6 @@ Here are a few AI courses I've directly contributed to and helped launch with De
 ### 🔎 What I’m Learning & Exploring
 - **Deep Learning** & **Agentic AI**
 - **LangChain & LangGraph** Foundations 
-- **Multi-Modal** and **Multi-Agent** ML Systems
 - **AI Engineering** Applications
 - **AI for Creative Workflows** and Developer Productivity Tools
 
