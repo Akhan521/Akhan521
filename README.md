@@ -5,13 +5,6 @@ I’m a **Computer Science B.S./M.S. student at UC Riverside** (graduating in De
 
 My work touches upon the intersection of **AI, thoughtful software design + engineering, and accessibility**; I particularly love turning my ideas into fun and impactful projects to benefit others. I'm an AI Trainer with [Handshake AI](https://joinhandshake.com/fellowship-program/referral/?referralCode=EBF4D5) and an AI product tester with [DeepLearning.AI](https://www.linkedin.com/in/aamir-khan-aak521/overlay/1767041499624/single-media-viewer?type=LINK&profileId=ACoAADqdK7wBX-esz3UR1KyfoBLx0KY4uax57fI&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BRzoEtx7JQveXsxVW6YEORA%3D%3D), where I focus on improving AI education through thoughtful course design and project experiences. I also spend my weekends teaching as an Islamic Studies Instructor at [Institute of Knowledge (IOK)](https://instituteofknowledge.com/), where I love cultivating a supportive and growth-driven learning environment for my students around Islam and what it means to live a peaceful life as a Muslim.
 
-Here are a few AI courses I've directly contributed to and helped launch with DeepLearning.AI:
-1. [Multi-AI Agent Systems with crewAI](https://learn.deeplearning.ai/courses/multi-ai-agent-systems-with-crewai/)
-2. [Long-Term Agentic Memory with LangGraph](https://learn.deeplearning.ai/courses/long-term-agentic-memory-with-langgraph/) 
-3. [Semantic Caching for AI Agents with Redis](https://learn.deeplearning.ai/courses/semantic-caching-for-ai-agents/)
-4. [Jupyter-AI Coding in Notebooks](https://learn.deeplearning.ai/courses/jupyter-ai-coding-in-notebooks/lesson/5330udp0/introduction)
-
-
 ### 👨🏽‍🎓 About Me
 - **Aspiring AI/ML Engineer**: I focus on building and learning with **AI & ML** (LLMs, Gen. AI, Multimodal AI, DL, RL, AI agents, etc.)
 - **Software Engineer**: I enjoy building **full-stack apps, intelligent tools, and friendly user experiences**.  
