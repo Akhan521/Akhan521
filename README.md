@@ -1,13 +1,13 @@
 ## Hi there, I'm Aamir Khan👋🏼
 
-I’m a **Computer Science Master's student at UC Riverside**, interested in **Machine Learning, Deep Learning, AI Agents, building thoughtful software, and engineering for good**.
-> I'm actively seeking AI/ML internships for Summer and Fall 2026, so please feel free to reach out with any opportunities or advice! If my profile is a good fit, I would be grateful to get in touch and have a conversation about how I can grow with you soon. 
+I’m a **Computer Science Master's student at UC Riverside**, with interests in **Machine Learning, AI Agents, building thoughtful software, and engineering for good**.
+> I'm actively seeking AI/ML internships for Summer and Fall 2026, so please feel free to reach out with any opportunities or advice! I would be grateful to have a conversation about how I can grow with you. 
 
-My technical focus is on **applied AI, thoughtful software design + engineering, and accessibility**; I particularly love turning my ideas into fun and impactful projects to benefit others. I'm an AI Trainer with [Handshake AI](https://joinhandshake.com/fellowship-program/referral/?referralCode=EBF4D5) and an AI product tester with [DeepLearning.AI](https://www.linkedin.com/in/aamir-khan-aak521/overlay/1767041499624/single-media-viewer?type=LINK&profileId=ACoAADqdK7wBX-esz3UR1KyfoBLx0KY4uax57fI&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BRzoEtx7JQveXsxVW6YEORA%3D%3D), where I focus on improving AI education through thoughtful course design and project experiences. I also spend my weekends teaching as an Islamic Studies Instructor at [Institute of Knowledge (IOK)](https://instituteofknowledge.com/), where I love cultivating a supportive and growth-driven learning environment for my students around Islam and what it means to live a peaceful life as a Muslim.
+My technical focus is on **applied AI, AI agents, and thoughtful software engineering**; I particularly love turning my ideas into bite-sized projects to benefit others. I'm an AI Trainer with [Handshake AI](https://joinhandshake.com/fellowship-program/referral/?referralCode=EBF4D5) and an AI product tester with [DeepLearning.AI](https://www.linkedin.com/in/aamir-khan-aak521/overlay/1767041499624/single-media-viewer?type=LINK&profileId=ACoAADqdK7wBX-esz3UR1KyfoBLx0KY4uax57fI&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BRzoEtx7JQveXsxVW6YEORA%3D%3D), where I improve AI education through thoughtful course design and project experiences. I spend my weekends teaching as an Islamic Studies Instructor at [Institute of Knowledge (IOK)](https://instituteofknowledge.com/), where I cultivate a supportive and growth-driven learning environment for my students around Islam and academic excellence.
 
 ### 👨🏽‍🎓 About Me
-- **Aspiring AI/ML Engineer**: I focus on building and learning with **AI & ML** (LLMs, Gen. AI, Multimodal AI, DL, RL, AI agents, etc.)
-- **Software Engineer**: I enjoy building **full-stack apps, intelligent tools, and friendly user experiences**.  
+- **Aspiring AI/ML Engineer**: I focus on building and learning with **AI/ML** (LLMs, Gen. AI, Multimodal AI, DL, RL, AI agents, etc.)
+- **Software Engineer**: I enjoy building **full-stack apps and friendly user experiences**.  
 - **Engineering for Good**: My goal is to create projects that are technically impressive while being **helpful and accessible to others**.  
 - **Beyond Code**: I’m obsessed with **boba, reading, skating, building LEGO, going for coffee runs, and gaming**, which keep me curious and inspired.  
 
@@ -48,9 +48,9 @@ My technical focus is on **applied AI, thoughtful software design + engineering,
 ### 🫱🏽‍🫲🏼 Let’s Connect!
 - **Portfolio:** [aamir-khans-portfolio.vercel.app](https://aamir-khans-portfolio.vercel.app/)  
 - **LinkedIn:** [linkedin.com/in/aamir-khan-aak521](https://www.linkedin.com/in/aamir-khan-aak521/)  
-- **Learning:** [coursera.org/learner/aamir-khan-0365](https://www.coursera.org/learner/aamir-khan-0365)
+- **Certifications:** [coursera.org/learner/aamir-khan-0365](https://www.coursera.org/learner/aamir-khan-0365)
 - **Resume:** [drive.google.com/file/d/10sh8OCvhQI6_4GU20ILLg7g3h8x6r55r/view](https://drive.google.com/file/d/10sh8OCvhQI6_4GU20ILLg7g3h8x6r55r/view)
 - **Email:** akhan197@ucr.edu | aamirksfg@gmail.com
 
-> I'd love to use AI/ML and AI engineering to solve complex, interesting problems that will help us live more productive lives! My dream is to build AI tools that have the potential to help millions around the world and improve our quality of life as developers and learners.
+> I seek to use AI/ML and AI engineering to solve complex problems that will help us live more productive lives! My dream is to build AI tools that have the potential to help millions around the world and improve our quality of life as developers and learners.
 
