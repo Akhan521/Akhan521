@@ -1,7 +1,7 @@
 ## Hi there, I'm Aamir Khan👋🏼
 
 I’m a **Computer Science Master's student at UC Riverside**, with interests in **Machine Learning, AI Agents, building thoughtful software, and engineering for good**.
-> I'm actively seeking AI/ML internships for Summer and Fall 2026, so please feel free to reach out with any opportunities or advice! I would be grateful to have a conversation about how I can grow with you. 
+> I'm actively seeking software engineering and AI/ML internships for Summer and Fall 2026, so please feel free to reach out with any opportunities or advice! 
 
 My technical focus is on **applied AI, AI agents, and thoughtful software engineering**; I particularly love turning my ideas into bite-sized projects to benefit others. I'm an AI Trainer with [Handshake AI](https://joinhandshake.com/fellowship-program/referral/?referralCode=EBF4D5) and an AI product tester with [DeepLearning.AI](https://www.linkedin.com/in/aamir-khan-aak521/overlay/1767041499624/single-media-viewer?type=LINK&profileId=ACoAADqdK7wBX-esz3UR1KyfoBLx0KY4uax57fI&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BRzoEtx7JQveXsxVW6YEORA%3D%3D), where I improve AI education through thoughtful course design and project experiences. I spend my weekends teaching as an Islamic Studies Instructor at [Institute of Knowledge (IOK)](https://instituteofknowledge.com/), where I cultivate a supportive and growth-driven learning environment for my students around Islam and academic excellence.
 
