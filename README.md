@@ -1,4 +1,4 @@
-## Hi there, I'm Aamir Khan
+## Hi there, I'm Aamir Khan👋🏼
 
 **CS Master's student at UC Riverside** focused on applied AI and agentic systems. I've built transformers and ML systems from scratch to learn the fundamentals, and now I use AI coding tools like Claude Code to ship faster and build smarter. My goal is to create AI-powered tools that help people live and work more productively.
 
@@ -30,10 +30,8 @@ When I'm not coding or teaching, I'm probably grabbing boba or going on a coffee
 
 ### Let's Connect
 
-| | |
-|---|---|
-| **Portfolio** | [aamir-khans-portfolio.vercel.app](https://aamir-khans-portfolio.vercel.app/) |
-| **LinkedIn** | [linkedin.com/in/aamir-khan-aak521](https://www.linkedin.com/in/aamir-khan-aak521/) |
-| **Certifications** | [coursera.org/learner/aamir-khan-0365](https://www.coursera.org/learner/aamir-khan-0365) |
-| **Resume** | [View Resume](https://drive.google.com/file/d/10sh8OCvhQI6_4GU20ILLg7g3h8x6r55r/view) |
-| **Email** | akhan197@ucr.edu \| aamirksfg@gmail.com |
+**Portfolio:** [aamir-khans-portfolio.vercel.app](https://aamir-khans-portfolio.vercel.app/) <br>
+**LinkedIn:** [linkedin.com/in/aamir-khan-aak521](https://www.linkedin.com/in/aamir-khan-aak521/) <br>
+**Certifications:** [coursera.org/learner/aamir-khan-0365](https://www.coursera.org/learner/aamir-khan-0365) <br>
+**Resume:** [View Resume](https://drive.google.com/file/d/10sh8OCvhQI6_4GU20ILLg7g3h8x6r55r/view) <br>
+**Email:** akhan197@ucr.edu | aamirksfg@gmail.com
