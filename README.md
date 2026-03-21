@@ -10,15 +10,13 @@ I'm an AI Trainer with [Handshake AI](https://joinhandshake.com/fellowship-progr
 
 ### Featured Projects
 
-- **[GPT From Scratch](https://github.com/Akhan521/GPT-From-Scratch)** - Built multi-head self-attention, transformer blocks, and autoregressive decoding entirely from scratch in PyTorch. [Try it](https://colab.research.google.com/drive/1pHiw6OKHFPuaUIHw2aJkLGNz1k-cHXLt?usp=sharing)
-
-- **[Text2SQL LLaMA Analyst](https://github.com/Akhan521/Text2SQL-LLaMA-Analyst)** - Fine-tuned LLaMA-2-7B to translate natural language into SQL using LoRA + 4-bit quantization. [Colab Demo](https://colab.research.google.com/drive/1ISQ9jpYCEMQQ6WSKRqF60p3ZIEsJuuFo?usp=sharing)
-
-- **[Snaption](https://github.com/Akhan521/Snaption)** - End-to-end image captioning system combining computer vision and NLP, trained on Flickr8k with PyTorch. [Demo](https://github.com/Akhan521/Snaption?tab=readme-ov-file#-demo)
-
-- **[bat-code](https://github.com/Akhan521/bat-code)** *(in progress)* - A Batman-themed AI coding TUI powered by agentic AI (deepagents).
-
-- **[Pixelate](https://github.com/Akhan521/Pixelate)** - Colorblind-friendly pixel-art editor with an AI assistant and real-time accessibility filters. [Demo](https://github.com/Akhan521/Pixelate?tab=readme-ov-file#-pixelate-in-action)
+| Project | Description | Demo |
+|---------|-------------|------|
+| **[GPT From Scratch](https://github.com/Akhan521/GPT-From-Scratch)** | Built multi-head self-attention, transformer blocks, and autoregressive decoding entirely from scratch in PyTorch | [Try it!](https://colab.research.google.com/drive/1pHiw6OKHFPuaUIHw2aJkLGNz1k-cHXLt?usp=sharing) |
+| **[Text2SQL LLaMA Analyst](https://github.com/Akhan521/Text2SQL-LLaMA-Analyst)** | Fine-tuned LLaMA-2-7B to translate natural language into SQL using LoRA + 4-bit quantization | [Colab Demo](https://colab.research.google.com/drive/1ISQ9jpYCEMQQ6WSKRqF60p3ZIEsJuuFo?usp=sharing) |
+| **[Snaption](https://github.com/Akhan521/Snaption)** | End-to-end image captioning system combining computer vision and NLP, trained on Flickr8k with PyTorch | [Demo](https://github.com/Akhan521/Snaption?tab=readme-ov-file#-demo) |
+| **[bat-code](https://github.com/Akhan521/bat-code)** *(in progress)* | A Batman-themed AI coding TUI powered by agentic AI (deepagents) | *(in progress)* |
+| **[Pixelate](https://github.com/Akhan521/Pixelate)** | Colorblind-friendly pixel-art editor with an AI assistant and real-time accessibility filters | [Demo](https://github.com/Akhan521/Pixelate?tab=readme-ov-file#-pixelate-in-action) |
 
 ---
 
