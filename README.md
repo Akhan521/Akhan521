@@ -1,56 +1,39 @@
-## Hi there, I'm Aamir Khan👋🏼
+## Aamir Khan
 
-I’m a **Computer Science Master's student at UC Riverside**, with interests in **Machine Learning, AI Agents, building thoughtful software, and engineering for good**.
-> I'm actively seeking software engineering and AI/ML internships for Summer and Fall 2026, so please feel free to reach out with any opportunities or advice! 
+**CS Master's student at UC Riverside** focused on applied AI and agentic systems. I've built transformers and ML systems from scratch to learn the fundamentals, and now I use AI coding tools like Claude Code to ship faster and build smarter. My goal is to create AI-powered tools that help people live and work more productively.
 
-My technical focus is on **applied AI, AI agents, and thoughtful software engineering**; I particularly love turning my ideas into bite-sized projects to benefit others. I'm an AI Trainer with [Handshake AI](https://joinhandshake.com/fellowship-program/referral/?referralCode=EBF4D5) and an AI product tester with [DeepLearning.AI](https://www.linkedin.com/in/aamir-khan-aak521/overlay/1767041499624/single-media-viewer?type=LINK&profileId=ACoAADqdK7wBX-esz3UR1KyfoBLx0KY4uax57fI&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BRzoEtx7JQveXsxVW6YEORA%3D%3D), where I improve AI education through thoughtful course design and project experiences. I spend my weekends teaching as an Islamic Studies Instructor at [Institute of Knowledge (IOK)](https://instituteofknowledge.com/), where I cultivate a supportive and growth-driven learning environment for my students around Islam and academic excellence.
+I'm an AI Trainer with [Handshake AI](https://joinhandshake.com/fellowship-program/) and an AI product tester with [DeepLearning.AI](https://www.deeplearning.ai/), where I help shape AI education through course design and hands-on project experiences.
 
-### 👨🏽‍🎓 About Me
-- **Aspiring AI/ML Engineer**: I focus on building and learning with **AI/ML** (LLMs, Gen. AI, Multimodal AI, DL, RL, AI agents, etc.)
-- **Software Engineer**: I enjoy building **full-stack apps and friendly user experiences**.  
-- **Engineering for Good**: My goal is to create projects that are technically impressive while being **helpful and accessible to others**.  
-- **Beyond Code**: I’m obsessed with **boba, reading, skating, building LEGO, going for coffee runs, and gaming**, which keep me curious and inspired.  
+**Actively seeking software engineering and AI/ML internships for Summer and Fall 2026.** Feel free to reach out!
 
 ---
 
-### 🛠️ A Glimpse Into My Projects
-- **[Snaption](https://github.com/Akhan521/Snaption)**  
-  Explored **multi-modal ML** and built an **end-to-end image captioning system** with PyTorch to generate natural language descriptions of images. Trained on **Flickr8k (8K images)**, tackling hyperparameter tuning, overfitting prevention, and data augmentation strategies.  
-  *View my demo [here](https://github.com/Akhan521/Snaption?tab=readme-ov-file#-demo) and read about my project [here](https://github.com/Akhan521/Snaption/blob/main/README.md).*
-  
-- **[Text2SQL LLaMA Analyst](https://github.com/Akhan521/Text2SQL-LLaMA-Analyst)**  
-  Fine-tuned `LLaMA-2-7B` to translate natural language descriptions into structured, SQL queries using parameter-efficient fine-tuning techniques: **LoRA + 4-bit quantization**.  
-  *Includes a zero-setup [Colab Demo](https://colab.research.google.com/drive/1ISQ9jpYCEMQQ6WSKRqF60p3ZIEsJuuFo?usp=sharing)*
+### Featured Projects
 
-- **[GPT From Scratch](https://github.com/Akhan521/GPT-From-Scratch)**  
-  Implemented **multi-head self-attention, transformer blocks, and autoregressive decoding** entirely from scratch in PyTorch to truly understand how GPT models work.  
-  *Test it out yourself [here](https://colab.research.google.com/drive/1pHiw6OKHFPuaUIHw2aJkLGNz1k-cHXLt?usp=sharing).*
+- **[GPT From Scratch](https://github.com/Akhan521/GPT-From-Scratch)** - Built multi-head self-attention, transformer blocks, and autoregressive decoding entirely from scratch in PyTorch. [Try it](https://colab.research.google.com/drive/1pHiw6OKHFPuaUIHw2aJkLGNz1k-cHXLt?usp=sharing)
 
-- **[Pixelate](https://github.com/Akhan521/Pixelate)**  
-  Developed a **colorblind-friendly pixel-art editor** with an AI assistant (`Pixi`), real-time **colorblind-friendly** filters, and an accessible, intuitive interface for artists.  
-  *View our demo [here](https://github.com/Akhan521/Pixelate?tab=readme-ov-file#-pixelate-in-action).*
+- **[Text2SQL LLaMA Analyst](https://github.com/Akhan521/Text2SQL-LLaMA-Analyst)** - Fine-tuned LLaMA-2-7B to translate natural language into SQL using LoRA + 4-bit quantization. [Colab Demo](https://colab.research.google.com/drive/1ISQ9jpYCEMQQ6WSKRqF60p3ZIEsJuuFo?usp=sharing)
 
-- **[Reddit Crawler](https://github.com/Akhan521/Reddit-Crawler)**  
-  Engineered a robust **Reddit crawler and search engine** that **scraped, cleaned, and enriched 500MB+** of
-  real-time subreddit data with **multi-threading** support, improving crawl throughput by 4× via parallelization.  
-  *View our demo [here](https://github.com/Akhan521/Reddit-Crawler?tab=readme-ov-file#%EF%B8%8F-demo).*
-  
----
+- **[Snaption](https://github.com/Akhan521/Snaption)** - End-to-end image captioning system combining computer vision and NLP, trained on Flickr8k with PyTorch. [Demo](https://github.com/Akhan521/Snaption?tab=readme-ov-file#-demo)
 
-### 🔎 What I’m Learning & Exploring
-- **Deep Learning** & **Agentic AI**
-- **LangChain & LangGraph** Foundations 
-- **AI Engineering** Applications
-- **AI for Creative Workflows** and Developer Productivity Tools
+- **[bat-code](https://github.com/Akhan521/bat-code)** *(in progress)* - A Batman-themed AI coding TUI powered by agentic AI (deepagents).
+
+- **[Pixelate](https://github.com/Akhan521/Pixelate)** - Colorblind-friendly pixel-art editor with an AI assistant and real-time accessibility filters. [Demo](https://github.com/Akhan521/Pixelate?tab=readme-ov-file#-pixelate-in-action)
 
 ---
 
-### 🫱🏽‍🫲🏼 Let’s Connect!
-- **Portfolio:** [aamir-khans-portfolio.vercel.app](https://aamir-khans-portfolio.vercel.app/)  
-- **LinkedIn:** [linkedin.com/in/aamir-khan-aak521](https://www.linkedin.com/in/aamir-khan-aak521/)  
-- **Certifications:** [coursera.org/learner/aamir-khan-0365](https://www.coursera.org/learner/aamir-khan-0365)
-- **Resume:** [drive.google.com/file/d/10sh8OCvhQI6_4GU20ILLg7g3h8x6r55r/view](https://drive.google.com/file/d/10sh8OCvhQI6_4GU20ILLg7g3h8x6r55r/view)
-- **Email:** akhan197@ucr.edu | aamirksfg@gmail.com
+### Beyond Code
 
-> I seek to use AI/ML and AI engineering to solve complex problems that will help us live more productive lives! My dream is to build AI tools that have the potential to help millions around the world and improve our quality of life as developers and learners.
+I teach as an Islamic Studies Instructor at [Institute of Knowledge](https://instituteofknowledge.com/), where I get to build a supportive, growth-driven learning environment for my students around Islam and academic excellence. Teaching has shaped how I think about communication, patience, and meeting people where they are.
 
+When I'm not coding or teaching, I'm probably grabbing boba or going on a coffee run with friends, skating around campus, getting lost in a good book, building a LEGO set, or gaming cozily (Pokopia is my jam!). These are the things that keep me curious, grounded, and recharged.
+
+---
+
+### Let's Connect
+
+**Portfolio:** [aamir-khans-portfolio.vercel.app](https://aamir-khans-portfolio.vercel.app/)
+**LinkedIn:** [linkedin.com/in/aamir-khan-aak521](https://www.linkedin.com/in/aamir-khan-aak521/)
+**Certifications:** [coursera.org/learner/aamir-khan-0365](https://www.coursera.org/learner/aamir-khan-0365)
+**Resume:** [View Resume](https://drive.google.com/file/d/10sh8OCvhQI6_4GU20ILLg7g3h8x6r55r/view)
+**Email:** akhan197@ucr.edu | aamirksfg@gmail.com
