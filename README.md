@@ -32,11 +32,10 @@ When I'm not coding or teaching, I'm probably grabbing boba or going on a coffee
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://aamir-khans-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=linktree&logoColor=white)](https://aamir-khans-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aamir-khan-aak521/)
 [![Coursera](https://img.shields.io/badge/Certifications-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/learner/aamir-khan-0365)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/10sh8OCvhQI6_4GU20ILLg7g3h8x6r55r/view)
-[![UCR Email](https://img.shields.io/badge/akhan197@ucr.edu-7C3AED?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:akhan197@ucr.edu)
-[![Gmail](https://img.shields.io/badge/aamirksfg@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aamirksfg@gmail.com)
+[![Email](https://img.shields.io/badge/akhan197@ucr.edu-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhan197@ucr.edu)
 
 </div>
