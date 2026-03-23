@@ -1,6 +1,6 @@
-## Hi there, I'm Aamir Khan👋🏼
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Hi%20there,%20I'm%20Aamir%20Khan%20%F0%9F%91%8B%F0%9F%8F%BC&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=CS%20Master's%20Student%20%7C%20Applied%20AI%20%26%20Agentic%20Systems&descSize=16&descColor=ffffff&descAlignY=55" width="100%" />
 
-**CS Master's student at UC Riverside** focused on applied AI and agentic systems. I've built transformers and ML systems from scratch to learn the fundamentals, and now I use AI coding tools like Claude Code to ship faster and build smarter. My goal is to create AI-powered tools that help people live and work more productively.
+Focused on applied AI and agentic systems, I've built transformers and ML systems from scratch to learn the fundamentals, and now I use AI coding tools like Claude Code to ship faster and build smarter. My goal is to create AI-powered tools that help people live and work more productively.
 
 I'm an AI Trainer with [Handshake AI](https://joinhandshake.com/fellowship-program/) and an AI product tester with [DeepLearning.AI](https://www.deeplearning.ai/), where I help shape AI education through course design and hands-on project experiences.
 
@@ -8,7 +8,7 @@ I'm an AI Trainer with [Handshake AI](https://joinhandshake.com/fellowship-progr
 
 ---
 
-### Featured Projects
+<h2 align="center">Featured Projects</h2>
 
 | Project | Description | Demo |
 |---------|-------------|------|
@@ -20,7 +20,7 @@ I'm an AI Trainer with [Handshake AI](https://joinhandshake.com/fellowship-progr
 
 ---
 
-### Beyond Code
+<h2 align="center">Beyond Code</h2>
 
 I teach as an Islamic Studies Instructor at [Institute of Knowledge](https://instituteofknowledge.com/), where I get to build a supportive, growth-driven learning environment for my students around Islam and academic excellence. Teaching has shaped how I think about communication, patience, and meeting people where they are.
 
@@ -28,7 +28,7 @@ When I'm not coding or teaching, I'm probably grabbing boba or going on a coffee
 
 ---
 
-### Let's Connect
+<h2 align="center">Let's Connect</h2>
 
 <div align="center">
 
