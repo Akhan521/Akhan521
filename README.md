@@ -1,5 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=200&section=header&text=Hi%20there,%20I%27m%20Aamir%20Khan%20%F0%9F%91%8B%F0%9F%8F%BC&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=CS%20Master%27s%20Student%20at%20UCR%20%7C%20Applied%20AI%20and%20Agentic%20Systems&descSize=16&descColor=ffffff&descAlignY=55" width="100%" />
-Focused on applied AI and agentic systems, I've built transformers and ML systems from scratch to learn the fundamentals, and now I use AI coding tools like Claude Code to ship faster and build smarter. My goal is to create AI-powered tools that help people live and work more productively.
+<div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=200&section=header&text=Hi%20there,%20I%27m%20Aamir%20Khan%20%F0%9F%91%8B%F0%9F%8F%BC&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=Applied%20AI%20and%20Agentic%20Systems%20%7C%20Seeking%20Internships&descSize=16&descColor=ffffff&descAlignY=55" width="100%" />
+</div>
+
+**CS Master's student at UC Riverside** focused on applied AI and agentic systems. I've built transformers and ML systems from scratch to learn the fundamentals, and now I use AI coding tools like Claude Code to ship faster and build smarter. My goal is to create AI-powered tools that help people live and work more productively.
 
 I'm an AI Trainer with [Handshake AI](https://joinhandshake.com/fellowship-program/) and an AI product tester with [DeepLearning.AI](https://www.deeplearning.ai/), where I help shape AI education through course design and hands-on project experiences.
 
