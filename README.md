@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=200&section=header&text=Hi%20there,%20I'm%20Aamir%20Khan%20%F0%9F%91%8B%F0%9F%8F%BC&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=CS%20Master's%20Student%20%7C%20Applied%20AI%20%26%20Agentic%20Systems&descSize=16&descColor=ffffff&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=200&section=header&text=Hi%20there,%20I%27m%20Aamir%20Khan%20%F0%9F%91%8B%F0%9F%8F%BC&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=CS%20Master's%20Student%20%7C%20Applied%20AI%20%26%20Agentic%20Systems&descSize=16&descColor=ffffff&descAlignY=55" width="100%" />
 
 Focused on applied AI and agentic systems, I've built transformers and ML systems from scratch to learn the fundamentals, and now I use AI coding tools like Claude Code to ship faster and build smarter. My goal is to create AI-powered tools that help people live and work more productively.
 
