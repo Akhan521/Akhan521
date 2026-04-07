@@ -7,6 +7,8 @@
 
 **Actively seeking software engineering and AI/ML internships for Summer and Fall 2026.** Feel free to reach out!
 
+<br>
+
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=linktree&logoColor=white)](https://aamir-khans-portfolio.vercel.app/)
