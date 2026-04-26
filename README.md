@@ -19,7 +19,7 @@
 
 <br>
 
-Python · PyTorch · Hugging Face · LangChain / LangGraph · RAG (ChromaDB) · FastAPI · MCP · LLM Fine-Tuning
+`Python` · `PyTorch` · `Hugging Face` · `LangChain / LangGraph` · `RAG (ChromaDB)` · `FastAPI` · `MCP` · `LLM Fine-Tuning`
 
 </div>
 
