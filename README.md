@@ -3,7 +3,7 @@
 <p>Focused on applied AI and agentic systems; I've built transformers and ML systems from scratch to learn the fundamentals, and now I use AI coding tools like Claude Code to ship faster and build smarter. My goal is to create AI-powered tools that help people live and work more productively.</p>
 </div>
 
-**AI Trainer** at [**Handshake AI**](https://joinhandshake.com/fellowship-program/) | **AI Product Tester** at [**DeepLearning.AI**](https://www.deeplearning.ai/) - shaping AI education through course design and project experiences.
+**AI Trainer** at [**Handshake AI**](https://joinhandshake.com/fellowship-program/) *(Frontier-Lab AI Fellowship)* | **AI Product Tester** at [**DeepLearning.AI**](https://www.deeplearning.ai/) - shaping AI education through course design and project experiences.
 
 **Actively seeking software engineering and AI/ML internships for Summer and Fall 2026.** Feel free to reach out!
 
