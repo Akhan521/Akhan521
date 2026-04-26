@@ -17,6 +17,10 @@
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1XmkXP_88RvogZ676RelvgUsJtfBq8vhm/view?usp=sharing)
 [![Email](https://img.shields.io/badge/akhan197@ucr.edu-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhan197@ucr.edu)
 
+<br>
+
+Python · PyTorch · Hugging Face · LangChain / LangGraph · RAG (ChromaDB) · FastAPI · MCP · LLM Fine-Tuning
+
 </div>
 
 ---
