@@ -1,11 +1,11 @@
 <div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=180&section=header&text=Hi%20there,%20I%27m%20Aamir%20Khan%20%F0%9F%91%8B%F0%9F%8F%BC&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=CS%20Master%27s%20Student%20at%20UC%20Riverside&descSize=16&descColor=ffffff&descAlignY=55" width="100%" />
-<p>I build applied AI and agentic systems, from transformers written from scratch to projects shipped with agentic coding tools like Claude Code. My goal is creating AI tools that help people live and work more productively.</p>
+<p>I build applied AI and agentic systems, from transformers written from scratch to projects I've shipped with agentic coding tools like Claude Code. My goal is creating AI tools that help people live and work more productively.</p>
 </div>
 
-**AI Trainer** at [**Handshake AI**](https://joinhandshake.com/fellowship-program/) *(Frontier-Lab AI Fellowship)* | **AI Product Tester** at [**DeepLearning.AI**](https://www.deeplearning.ai/) - shaping AI education through course design and project experiences.
+**AI Trainer, ML Specialist** at [**Handshake AI**](https://joinhandshake.com/fellowship-program/) *(Frontier-Lab AI Fellowship)* | **AI Product Tester** at [**DeepLearning.AI**](https://www.deeplearning.ai/) - shaping AI education through product testing and accessible learning experiences.
 
-**Actively seeking AI/ML and software engineering internships and new grad roles for 2026.** Always learning, always shipping. Feel free to reach out!
+**Actively seeking AI/ML and software engineering internships and new grad roles for 2026.** Feel free to reach out!
 
 <br>
 
