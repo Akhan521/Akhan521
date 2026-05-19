@@ -3,9 +3,11 @@
 <p>I build applied AI and agentic systems, from transformers written from scratch to projects I've shipped with agentic coding tools like Claude Code. My goal is creating AI tools that help people live and work more productively.</p>
 </div>
 
+**Incoming AI/ML Software Engineering Intern at [Tatari](https://www.tatari.tv/)** *(Summer 2026)*. Joining the **Media Intelligence** team to build AI/ML systems for automated media planning, audience targeting, and predictive measurement across linear and streaming TV.
+
 **AI Trainer, ML Specialist** at [**Handshake AI**](https://joinhandshake.com/fellowship-program/) *(Frontier-Lab AI Fellowship)* | **AI Product Tester** at [**DeepLearning.AI**](https://www.deeplearning.ai/) - shaping AI education through product testing and accessible learning experiences.
 
-**Actively seeking AI/ML and software engineering internships and new grad roles for 2026.** Feel free to reach out!
+**Still seeking AI/ML and software engineering internships and new grad roles for Fall 2026 and beyond.** Feel free to reach out!
 
 <br>
 
