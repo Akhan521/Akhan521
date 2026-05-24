@@ -41,6 +41,6 @@
 
 <h2 align="center">Beyond Code</h2>
 
-I teach as an Islamic Studies Instructor at [Institute of Knowledge](https://instituteofknowledge.com/). Standing in front of a classroom every week has directly shaped how I work as an engineer: it requires clarity, patience, and breaking complex ideas into simple ones. When I'm not coding or teaching, I'm probably grabbing boba with friends, skating around campus, building a LEGO set, getting lost in a good book, or gaming cozily (Pokopia is my jam!).
+I teach as an Islamic Studies Instructor at [Institute of Knowledge](https://instituteofknowledge.com/). Teaching has directly improved how I work as an engineer: you can't really explain a concept to a student until you understand it yourself, and the same goes for code. When I'm not coding or teaching, I'm probably grabbing boba with friends, skating around campus, building a LEGO set, getting lost in a good book, or gaming cozily (Pokopia is my jam!).
 
 ---
