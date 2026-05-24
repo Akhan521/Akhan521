@@ -1,11 +1,11 @@
 <div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=180&section=header&text=Hi%20there,%20I%27m%20Aamir%20Khan%20%F0%9F%91%8B%F0%9F%8F%BC&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=CS%20Master%27s%20Student%20at%20UC%20Riverside&descSize=16&descColor=ffffff&descAlignY=55" width="100%" />
-<p>I build applied AI and agentic systems, from transformers written from scratch to projects I've shipped with agentic coding tools like Claude Code. My goal is creating AI tools that help people live and work more productively.</p>
+<p>I like AI that's grounded in the fundamentals, so I built a transformer from scratch before touching any agent frameworks. Right now I'm into agentic systems and tools you actually want to keep using.</p>
 </div>
 
 **Incoming AI/ML Software Engineering Intern at [Tatari](https://www.tatari.tv/)** *(Summer 2026)*. Joining the **Media Intelligence** team to build AI/ML systems for automated media planning, audience targeting, and predictive measurement across linear and streaming TV.
 
-**AI Trainer, ML Specialist** at [**Handshake AI**](https://joinhandshake.com/fellowship-program/) *(Frontier-Lab AI Fellowship)* | **AI Product Tester** at [**DeepLearning.AI**](https://www.deeplearning.ai/) - shaping AI education through product testing and accessible learning experiences.
+**AI Trainer, ML Specialist** at [**Handshake AI**](https://joinhandshake.com/fellowship-program/) *(Frontier-Lab AI Fellowship)* | **AI Product Tester** at [**DeepLearning.AI**](https://www.deeplearning.ai/) - dogfooding pre-release AI products and course content.
 
 **Still seeking AI/ML and software engineering internships and new grad roles for Fall 2026 and beyond.** Feel free to reach out!
 
@@ -41,6 +41,6 @@
 
 <h2 align="center">Beyond Code</h2>
 
-I teach as an Islamic Studies Instructor at [Institute of Knowledge](https://instituteofknowledge.com/), where I get to build a supportive learning environment around Islam and academic excellence. Teaching has shaped how I communicate and meet people where they are. When I'm not coding or teaching, I'm probably grabbing boba with friends, skating around campus, building a LEGO set, getting lost in a good book, or gaming cozily (Pokopia is my jam!).
+I teach as an Islamic Studies Instructor at [Institute of Knowledge](https://instituteofknowledge.com/). Standing in front of a classroom every week has directly shaped how I work as an engineer: it requires clarity, patience, and breaking complex ideas into simple ones. When I'm not coding or teaching, I'm probably grabbing boba with friends, skating around campus, building a LEGO set, getting lost in a good book, or gaming cozily (Pokopia is my jam!).
 
 ---
