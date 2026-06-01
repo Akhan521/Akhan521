@@ -1,6 +1,6 @@
 <div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=180&section=header&text=Hi%20there,%20I%27m%20Aamir%20Khan%20%F0%9F%91%8B%F0%9F%8F%BC&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=CS%20Master%27s%20Student%20at%20UC%20Riverside&descSize=16&descColor=ffffff&descAlignY=55" width="100%" />
-<p>I like AI that's grounded in the fundamentals, so I built a transformer from scratch before touching any agent frameworks. Right now I'm into agentic systems and tools you actually want to keep using.</p>
+<p>I like AI grounded in fundamentals. Built a transformer from scratch before touching agent frameworks, and lately I care more about the applied side: ML that ships inside something real, adapted for the job, and built to feel like part of the experience.</p>
 </div>
 
 **Incoming AI/ML Software Engineering Intern at [Tatari](https://www.tatari.tv/)** *(Summer 2026)*. Joining the **Media Intelligence** team to build AI/ML systems for automated media planning, audience targeting, and predictive measurement across linear and streaming TV.
