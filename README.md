@@ -21,7 +21,7 @@
 
 <br>
 
-`Python` · `PyTorch` · `Hugging Face` · `LangChain / LangGraph` · `RAG (ChromaDB)` · `FastAPI` · `MCP` · `LLM Fine-Tuning`
+`Python` · `PyTorch` · `LLM Fine-Tuning` · `Hugging Face` · `RAG (ChromaDB)` · `LangChain / LangGraph` · `FastAPI` · `MCP`
 
 </div>
 
@@ -31,11 +31,11 @@
 
 | Project | Tech | Description | Demo |
 |---------|------|-------------|------|
-| **[Snaption](https://github.com/Akhan521/Snaption)** | PyTorch, EfficientNet, Transformers | Image captioning system that generates natural language descriptions from photos, trained on Flickr8k | [Demo](https://github.com/Akhan521/Snaption?tab=readme-ov-file#-demo) |
-| **[GPT From Scratch](https://github.com/Akhan521/GPT-From-Scratch)** | PyTorch, Transformers | Fully hand-built GPT with multi-head self-attention and autoregressive decoding | [Try it!](https://colab.research.google.com/drive/1pHiw6OKHFPuaUIHw2aJkLGNz1k-cHXLt?usp=sharing) |
-| **[Text2SQL LLaMA Analyst](https://github.com/Akhan521/Text2SQL-LLaMA-Analyst)** | LLaMA-2, LoRA, 4-bit Quantization | Natural language to SQL: fine-tuned LLaMA-2-7B to generate SQL from plain English | [Colab Demo](https://colab.research.google.com/drive/1ISQ9jpYCEMQQ6WSKRqF60p3ZIEsJuuFo?usp=sharing) |
-| **[Pixelate](https://github.com/Akhan521/Pixelate)** | PyQt6, Firebase, Google Cloud | Colorblind-friendly pixel-art editor with an AI assistant and real-time accessibility filters | [Demo](https://github.com/Akhan521/Pixelate?tab=readme-ov-file#-pixelate-in-action) |
-| **[bat-code](https://github.com/Akhan521/bat-code)** *(in progress)* | LangChain, LangGraph | Batman-themed AI coding TUI powered by agentic AI | *(in progress)* |
+| **[Snaption](https://github.com/Akhan521/Snaption)** | PyTorch, EfficientNet, Transformers | Image captioning model. EfficientNet encoder into a transformer decoder, trained on Flickr8k. Show it a photo, it writes a sentence about what's in it. | [Demo](https://github.com/Akhan521/Snaption?tab=readme-ov-file#-demo) |
+| **[Pixelate](https://github.com/Akhan521/Pixelate)** | PyQt6, Firebase, Google Cloud | Pixel-art editor with colorblindness filters and a built-in AI assistant. The AI helps you draw, it isn't the point of the tool. | [Demo](https://github.com/Akhan521/Pixelate?tab=readme-ov-file#-pixelate-in-action) |
+| **[Text2SQL LLaMA Analyst](https://github.com/Akhan521/Text2SQL-LLaMA-Analyst)** | LLaMA-2, LoRA, 4-bit Quantization | Fine-tuned LLaMA-2-7B with LoRA and 4-bit quantization to turn plain English into SQL. Small adapters, compressed weights, one job done well. | [Colab Demo](https://colab.research.google.com/drive/1ISQ9jpYCEMQQ6WSKRqF60p3ZIEsJuuFo?usp=sharing) |
+| **[GPT From Scratch](https://github.com/Akhan521/GPT-From-Scratch)** | PyTorch, Transformers | GPT built by hand. Self-attention, autoregressive decoding, no framework shortcuts. | [Try it!](https://colab.research.google.com/drive/1pHiw6OKHFPuaUIHw2aJkLGNz1k-cHXLt?usp=sharing) |
+| **[bat-code](https://github.com/Akhan521/bat-code)** *(in progress)* | Deep Agents, LangGraph | Batman-themed coding TUI built on the Deep Agents library. Turning a capable agent into a coding tool you actually want to keep open. | *(in progress)* |
 
 ---
 
