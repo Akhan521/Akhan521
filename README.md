@@ -16,7 +16,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=linktree&logoColor=white)](https://aamir-khans-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aamir-khan-aak521/)
 [![Coursera](https://img.shields.io/badge/Certifications-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/learner/aamir-khan-0365)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1XmkXP_88RvogZ676RelvgUsJtfBq8vhm/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1jUDIhIXB_L5P-Kt-qarN74L02tAdZeF2/view?usp=sharing)
 [![Email](https://img.shields.io/badge/akhan197@ucr.edu-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhan197@ucr.edu)
 
 <br>
