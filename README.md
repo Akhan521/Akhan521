@@ -3,9 +3,9 @@
 <p>I like AI grounded in fundamentals. Built a transformer from scratch before touching agent frameworks, and lately I care more about the applied side: ML that ships inside something real, adapted for the job, and built to feel like part of the experience.</p>
 </div>
 
-**Incoming AI/ML Software Engineering Intern at [Tatari](https://www.tatari.tv/)** *(Summer 2026)*. Joining the **Media Intelligence** team to build AI/ML systems for automated media planning, audience targeting, and predictive measurement across linear and streaming TV.
+**AI/ML Software Engineering Intern at [Tatari](https://www.tatari.tv/)** *(Summer 2026)*. On the **Media Intelligence** team, building AI/ML systems for automated media planning, audience targeting, and predictive measurement across linear and streaming TV.
 
-**AI Trainer, ML Specialist** at [**Handshake AI**](https://joinhandshake.com/fellowship-program/) *(Frontier-Lab AI Fellowship)* | **AI Product Tester** at [**DeepLearning.AI**](https://www.deeplearning.ai/) - dogfooding pre-release AI products and course content.
+**AI Education Product Tester** at [**DeepLearning.AI**](https://www.deeplearning.ai/) - dogfooding pre-release AI products and course content. Previously **AI Trainer, ML Specialist** at [**Handshake AI**](https://joinhandshake.com/fellowship-program/) *(Frontier-Lab AI Fellowship, through June 2026)*.
 
 **Still seeking AI/ML and software engineering internships and new grad roles for Fall 2026 and beyond.** Feel free to reach out!
 
