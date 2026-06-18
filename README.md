@@ -3,7 +3,7 @@
 <p>I learned AI from the fundamentals up, building a transformer from scratch before touching agent frameworks. These days I focus on the applied side: ML that ships inside real products and is adapted to the job it actually does.</p>
 </div>
 
-**AI/ML Software Engineering Intern at [Tatari](https://www.tatari.tv/)** *(Summer 2026)*. On the **Media Intelligence** team, building AI/ML systems for automated media planning, audience targeting, and predictive measurement across linear and streaming TV.
+**AI/ML Software Engineering Intern at [Tatari](https://www.tatari.tv/)** *(Summer 2026)*. On the **Media Intelligence (MINT)** ML team, building production MLOps workflows that migrate ML models to **Databricks** serving endpoints using **MLflow**, with end-to-end inference logging and performance monitoring for scalable, observable deployment.
 
 **AI Education Product Tester** at [**DeepLearning.AI**](https://www.deeplearning.ai/) - dogfooding pre-release AI products and course content. Previously **AI Trainer, ML Specialist** at [**Handshake AI**](https://joinhandshake.com/fellowship-program/) *(Frontier-Lab AI Fellowship, through June 2026)*.
 
