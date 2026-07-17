@@ -1,5 +1,5 @@
 <div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=180&section=header&text=Hi%20there,%20I%27m%20Aamir%20Khan%20%F0%9F%91%8B%F0%9F%8F%BC&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=CS%20Master%27s%20Student%20at%20UC%20Riverside&descSize=16&descColor=ffffff&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=180&section=header&text=Hi%20there,%20I%27m%20Aamir%20Khan%20%F0%9F%91%8B%F0%9F%8F%BC&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=CS%20Master%27s%20Student%20at%20UC%20Riverside&descSize=16&descColor=ffffff&descAlignY=55" width="100%" alt="Aamir Khan — CS Master's student at UC Riverside" />
 <p>I learned AI from the fundamentals up, building a transformer from scratch before touching agent frameworks. These days I focus on the applied side: ML that ships inside real products and is adapted to the job it actually does.</p>
 </div>
 
@@ -32,9 +32,9 @@
 |---------|------|-------------|------|
 | **[Snaption](https://github.com/Akhan521/Snaption)** | PyTorch, EfficientNet, Transformers | Image captioning model: EfficientNet encoder into a transformer decoder with cross-attention, trained on Flickr8k. Pip-installable, runs in about a second per image on CPU. | [Demo](https://github.com/Akhan521/Snaption?tab=readme-ov-file#-demo) |
 | **[Pixelate](https://github.com/Akhan521/Pixelate)** | PyQt6, Firebase, OpenAI | Pixel-art editor with accessibility built in. Real-time colorblindness filters and Pixi, an AI assistant for drawing ideas and feedback. | [Demo](https://github.com/Akhan521/Pixelate?tab=readme-ov-file#-pixelate-in-action) |
-| **[Text2SQL LLaMA Analyst](https://github.com/Akhan521/Text2SQL-LLaMA-Analyst)** | LLaMA-2, LoRA, 4-bit Quantization | Fine-tuned LLaMA-2-7B with LoRA and 4-bit quantization to turn plain English into SQL queries you can actually run. | [Colab Demo](https://colab.research.google.com/drive/1ISQ9jpYCEMQQ6WSKRqF60p3ZIEsJuuFo?usp=sharing) |
-| **[GPT From Scratch](https://github.com/Akhan521/GPT-From-Scratch)** | PyTorch, Transformers | GPT built by hand. Self-attention, autoregressive decoding, no framework shortcuts. | [Try it!](https://colab.research.google.com/drive/1pHiw6OKHFPuaUIHw2aJkLGNz1k-cHXLt?usp=sharing) |
-| **[bat-code](https://github.com/Akhan521/bat-code)** *(in progress)* | Deep Agents, LangGraph | Batman-themed coding TUI built on the Deep Agents library. Turning a capable agent into a coding tool you actually want to keep open. | *(in progress)* |
+| **[Text2SQL LLaMA Analyst](https://github.com/Akhan521/Text2SQL-LLaMA-Analyst)** | LLaMA-2, LoRA, 4-bit Quantization | Fine-tuned LLaMA-2-7B with LoRA and 4-bit quantization to turn plain English into SQL queries you can actually run. | [Demo](https://colab.research.google.com/drive/1ISQ9jpYCEMQQ6WSKRqF60p3ZIEsJuuFo?usp=sharing) |
+| **[GPT From Scratch](https://github.com/Akhan521/GPT-From-Scratch)** | PyTorch, Transformers | GPT built by hand. Self-attention, autoregressive decoding, no framework shortcuts. | [Demo](https://colab.research.google.com/drive/1pHiw6OKHFPuaUIHw2aJkLGNz1k-cHXLt?usp=sharing) |
+| **[bat-code](https://github.com/Akhan521/bat-code)** *(in progress)* | Deep Agents, LangGraph | Batman-themed coding TUI built on the Deep Agents library. Turning a capable agent into a coding tool you actually want to keep open. | Soon |
 
 ---
 
