@@ -7,6 +7,8 @@
 
 **AI Education Product Tester** at [**DeepLearning.AI**](https://www.deeplearning.ai/) - dogfooding pre-release AI products and course content. Previously **AI Trainer, ML Specialist** at [**Handshake AI**](https://joinhandshake.com/fellowship-program/) *(Frontier-Lab AI Fellowship, through June 2026)*.
 
+**Islamic Studies Instructor** at [**Institute of Knowledge**](https://instituteofknowledge.com/) - teaching weekly to students across a wide age range. It keeps me fluent at explaining hard ideas simply, the same skill behind good docs, clear code, and applied AI that people can actually use.
+
 **Still seeking AI/ML and software engineering internships and new grad roles for Fall 2026 and beyond.** Feel free to reach out!
 
 <br>
@@ -40,6 +42,6 @@
 
 <h2 align="center">Beyond Code</h2>
 
-I teach as an Islamic Studies Instructor at [Institute of Knowledge](https://instituteofknowledge.com/). Teaching has directly improved how I work as an engineer: you can't really explain a concept to a student until you understand it yourself, and the same goes for code. When I'm not coding or teaching, I'm probably grabbing boba with friends, skating around campus, building a LEGO set, getting lost in a good book, or gaming cozily (Pokopia is my jam!).
+When I'm not coding or teaching, I'm probably grabbing boba with friends, skating around campus, building a LEGO set, getting lost in a good book, or gaming cozily (Pokopia is my jam!).
 
 ---
