@@ -32,10 +32,10 @@
 
 | Project | Tech | Description | Demo |
 |---------|------|-------------|------|
-| **[Snaption](https://github.com/Akhan521/Snaption)** | PyTorch, EfficientNet, Transformers | Pip-installable image-captioning package, built from scratch in PyTorch. Generates a caption in ~1s per image on CPU, with reproducible training pipelines and pre-trained model releases. | [Demo](https://github.com/Akhan521/Snaption?tab=readme-ov-file#-demo) |
-| **[Pixelate](https://github.com/Akhan521/Pixelate)** | PyQt6, Firebase, OpenAI | Pixel-art editor with accessibility built in. Real-time colorblindness filters and Pixi, an AI assistant for drawing ideas and feedback. | [Demo](https://github.com/Akhan521/Pixelate?tab=readme-ov-file#-pixelate-in-action) |
 | **[Text2SQL LLaMA Analyst](https://github.com/Akhan521/Text2SQL-LLaMA-Analyst)** | LLaMA-2, LoRA, 4-bit Quantization | Fine-tuned LLaMA-2-7B with LoRA and 4-bit quantization to turn plain English into SQL queries you can actually run. | [Demo](https://colab.research.google.com/drive/1ISQ9jpYCEMQQ6WSKRqF60p3ZIEsJuuFo?usp=sharing) |
 | **[GPT From Scratch](https://github.com/Akhan521/GPT-From-Scratch)** | PyTorch, Transformers | GPT built by hand. Self-attention, autoregressive decoding, no framework shortcuts. | [Demo](https://colab.research.google.com/drive/1pHiw6OKHFPuaUIHw2aJkLGNz1k-cHXLt?usp=sharing) |
+| **[Snaption](https://github.com/Akhan521/Snaption)** | PyTorch, EfficientNet, Transformers | Pip-installable image-captioning package, built from scratch in PyTorch. Generates a caption in ~1s per image on CPU, with reproducible training pipelines and pre-trained model releases. | [Demo](https://github.com/Akhan521/Snaption?tab=readme-ov-file#-demo) |
+| **[Pixelate](https://github.com/Akhan521/Pixelate)** | PyQt6, Firebase, OpenAI | Pixel-art editor with accessibility built in. Real-time colorblindness filters and Pixi, an AI assistant for drawing ideas and feedback. | [Demo](https://github.com/Akhan521/Pixelate?tab=readme-ov-file#-pixelate-in-action) |
 | **[bat-code](https://github.com/Akhan521/bat-code)** *(in progress)* | Deep Agents, LangGraph | Batman-themed coding TUI built on the Deep Agents library. Turning a capable agent into a coding tool you actually want to keep open. | Soon |
 
 ---
