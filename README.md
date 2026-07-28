@@ -5,7 +5,7 @@
 
 **AI/ML Software Engineering Intern at [Tatari](https://www.tatari.tv/)** *(Summer 2026)*. On the **Media Intelligence (MINT)** ML team, building production MLOps workflows that migrate ML models to **Databricks** serving endpoints using **MLflow**, with end-to-end inference logging and performance monitoring for scalable, observable deployment.
 
-**AI Education Product Tester** at [**DeepLearning.AI**](https://www.deeplearning.ai/) - dogfooding pre-release AI products and course content. Previously **AI Trainer, ML Specialist** at [**Handshake AI**](https://joinhandshake.com/fellowship-program/) *(Frontier-Lab AI Fellowship, through June 2026)*.
+**AI Trainer, ML Specialist** at [**Handshake AI**](https://joinhandshake.com/fellowship-program/) *(Frontier-Lab AI Fellowship, through June 2026)* - evaluated frontier-lab model outputs and designed adversarial prompt suites that uncovered systematic failure modes. Currently also stress-testing pre-release AI products and courses at [**DeepLearning.AI**](https://www.deeplearning.ai/).
 
 **Islamic Studies Instructor** at [**Institute of Knowledge**](https://instituteofknowledge.com/) - teaching weekly to students across a wide age range. It keeps me fluent at explaining hard ideas simply, the same skill behind good docs, clear code, and applied AI that people can actually use.
 
