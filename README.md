@@ -7,7 +7,7 @@
 
 **AI Trainer, ML Specialist** at [**Handshake AI**](https://joinhandshake.com/fellowship-program/) *(Frontier-Lab AI Fellowship, through June 2026)* - evaluated frontier-lab model outputs and designed adversarial prompt suites that uncovered systematic failure modes. Currently also stress-testing pre-release AI products and courses at [**DeepLearning.AI**](https://www.deeplearning.ai/).
 
-**Islamic Studies Instructor** at [**Institute of Knowledge**](https://instituteofknowledge.com/) - teaching weekly to students across a wide age range. It keeps me fluent at explaining hard ideas simply, the same skill behind good docs, clear code, and applied AI that people can actually use.
+**Islamic Studies Instructor** at [**Institute of Knowledge**](https://instituteofknowledge.com/) - weekly teaching that keeps me fluent at explaining hard ideas simply.
 
 **Still seeking AI/ML and software engineering internships and new grad roles for Fall 2026 and beyond.** Feel free to reach out!
 
@@ -22,7 +22,7 @@
 
 <br>
 
-`Python` · `PyTorch` · `LLM Fine-Tuning` · `Hugging Face` · `RAG (ChromaDB)` · `LangChain / LangGraph` · `FastAPI` · `MCP`
+`Python` · `PyTorch` · `LLM Fine-Tuning` · `Hugging Face` · `RAG` · `LangChain / LangGraph` · `FastAPI` · `MCP`
 
 </div>
 
@@ -32,7 +32,7 @@
 
 | Project | Tech | Description | Demo |
 |---------|------|-------------|------|
-| **[Snaption](https://github.com/Akhan521/Snaption)** | PyTorch, EfficientNet, Transformers | Image captioning model: EfficientNet encoder into a transformer decoder with cross-attention, trained on Flickr8k. Pip-installable, runs in about a second per image on CPU. | [Demo](https://github.com/Akhan521/Snaption?tab=readme-ov-file#-demo) |
+| **[Snaption](https://github.com/Akhan521/Snaption)** | PyTorch, EfficientNet, Transformers | Pip-installable image-captioning package, built from scratch in PyTorch. Generates a caption in ~1s per image on CPU, with reproducible training pipelines and pre-trained model releases. | [Demo](https://github.com/Akhan521/Snaption?tab=readme-ov-file#-demo) |
 | **[Pixelate](https://github.com/Akhan521/Pixelate)** | PyQt6, Firebase, OpenAI | Pixel-art editor with accessibility built in. Real-time colorblindness filters and Pixi, an AI assistant for drawing ideas and feedback. | [Demo](https://github.com/Akhan521/Pixelate?tab=readme-ov-file#-pixelate-in-action) |
 | **[Text2SQL LLaMA Analyst](https://github.com/Akhan521/Text2SQL-LLaMA-Analyst)** | LLaMA-2, LoRA, 4-bit Quantization | Fine-tuned LLaMA-2-7B with LoRA and 4-bit quantization to turn plain English into SQL queries you can actually run. | [Demo](https://colab.research.google.com/drive/1ISQ9jpYCEMQQ6WSKRqF60p3ZIEsJuuFo?usp=sharing) |
 | **[GPT From Scratch](https://github.com/Akhan521/GPT-From-Scratch)** | PyTorch, Transformers | GPT built by hand. Self-attention, autoregressive decoding, no framework shortcuts. | [Demo](https://colab.research.google.com/drive/1pHiw6OKHFPuaUIHw2aJkLGNz1k-cHXLt?usp=sharing) |
