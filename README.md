@@ -1,15 +1,15 @@
 <div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=180&section=header&text=Hi%20there,%20I%27m%20Aamir%20Khan%20%F0%9F%91%8B%F0%9F%8F%BC&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=CS%20Master%27s%20Student%20at%20UC%20Riverside&descSize=16&descColor=ffffff&descAlignY=55" width="100%" alt="Aamir Khan — CS Master's student at UC Riverside" />
-<p>I learned AI from the fundamentals up, building a transformer from scratch before touching agent frameworks. These days I focus on the applied side: ML that ships inside real products and is adapted to the job it actually does.</p>
+<p>I learned AI starting with the fundamentals, building a transformer from scratch before touching agent frameworks. Now, I focus on the applied side: AI that ships inside real products and is reliable in production.</p>
 </div>
 
 **AI/ML Software Engineering Intern at [Tatari](https://www.tatari.tv/)** *(Summer 2026)*. On the **Media Intelligence (MINT)** ML team, building production MLOps workflows that migrate ML models to **Databricks** serving endpoints using **MLflow**, with end-to-end inference logging and performance monitoring for scalable, observable deployment.
 
-**AI Trainer, ML Specialist** at [**Handshake AI**](https://joinhandshake.com/fellowship-program/) *(Frontier-Lab AI Fellowship, through June 2026)* - evaluated frontier-lab model outputs and designed adversarial prompt suites that uncovered systematic failure modes. Currently also stress-testing pre-release AI products and courses at [**DeepLearning.AI**](https://www.deeplearning.ai/).
+**AI Trainer, ML Specialist** at [**Handshake AI**](https://joinhandshake.com/fellowship-program/) *(Frontier-Lab AI Fellowship, Oct. 2025 - Jun. 2026)* - evaluated image model outputs and designed adversarial prompt suites that uncovered systematic failure modes. Currently also stress-testing pre-release AI products and courses at [**DeepLearning.AI**](https://www.deeplearning.ai/).
 
 **Islamic Studies Instructor** at [**Institute of Knowledge**](https://instituteofknowledge.com/) - weekly teaching that keeps me fluent at explaining hard ideas simply.
 
-**Still seeking AI/ML and software engineering internships and new grad roles for Fall 2026 and beyond.** Feel free to reach out!
+**Seeking AI/ML + software engineering internships and new grad roles for Fall 2026 and beyond.** 
 
 <br>
 
