@@ -3,7 +3,11 @@
 <p>I learned AI starting with the fundamentals, building a transformer from scratch before touching agent frameworks. Now, I focus on the applied side: AI that ships inside real products and is reliable in production.</p>
 </div>
 
-**AI/ML Software Engineering Intern at [Tatari](https://www.tatari.tv/)** *(Summer 2026)*. On the **Media Intelligence (MINT)** ML team, building production MLOps workflows that migrate ML models to **Databricks** serving endpoints using **MLflow**, with end-to-end inference logging and performance monitoring for scalable, observable deployment.
+**AI/ML Software Engineering Intern at [Tatari](https://www.tatari.tv/)**, on the Media Intelligence (MINT) team behind their TV ad measurement models. I mostly get ML models into production and keep them reliable. A few things I've worked on:
+- Found and fixed a bug that had been quietly failing about 3.9 million predictions a day for months
+- Moved a model onto Databricks serving and made a slow nightly job about 40 minutes faster
+- Cut our feature database writes roughly in half without affecting any predictions
+- Added inference logging and performance monitoring so problems show up right away and are traceable
 
 **AI Trainer, ML Specialist** at [**Handshake AI**](https://joinhandshake.com/fellowship-program/) *(Frontier-Lab AI Fellowship, Oct. 2025 - Jun. 2026)* - evaluated image model outputs and designed adversarial prompt suites that uncovered systematic failure modes. Currently also stress-testing pre-release AI products and courses at [**DeepLearning.AI**](https://www.deeplearning.ai/).
 
