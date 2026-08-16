@@ -4,8 +4,9 @@
 </div>
 
 **AI/ML Software Engineering Intern at [Tatari](https://www.tatari.tv/)**, on the Media Intelligence (MINT) team behind their TV ad measurement models. I mostly get ML models into production and keep them reliable. A few things I've worked on:
-- Found and fixed a bug that had been quietly failing about 3.9 million predictions a day for months
-- Moved a model onto Databricks serving and made a slow nightly job about 40 minutes faster
+- Root-caused and fixed a multi-month production outage that had been quietly failing about 3.9 million predictions a day
+- Built the champion/challenger routing system behind the nightly batch, so shadow models score 3.4M+ rows alongside production for evaluation, then made the run about 45% faster
+- Moved a model onto Databricks serving with the team's standardized MLOps framework
 - Cut our feature database writes roughly in half without affecting any predictions
 - Added inference logging and performance monitoring so problems show up right away and are traceable
 
