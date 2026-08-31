@@ -25,7 +25,7 @@
 
 <br>
 
-`Python` · `PyTorch` · `LLM Fine-Tuning` · `Hugging Face` · `RAG` · `LangChain / LangGraph` · `FastAPI` · `MCP`
+`Python` · `PyTorch` · `LLMs / RAG / Fine-Tuning` · `LangChain / LangGraph` · `FastAPI` · `Databricks` · `MLflow` · `Airflow` · `Docker` · `Hugging Face`
 
 </div>
 
