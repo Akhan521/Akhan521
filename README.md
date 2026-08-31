@@ -1,20 +1,21 @@
 <div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=180&section=header&text=Hi%20there,%20I%27m%20Aamir%20Khan%20%F0%9F%91%8B%F0%9F%8F%BC&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=CS%20Master%27s%20Student%20at%20UC%20Riverside&descSize=16&descColor=ffffff&descAlignY=55" width="100%" alt="Aamir Khan — CS Master's student at UC Riverside" />
-<p>I learned AI starting with the fundamentals, building a transformer from scratch before touching agent frameworks. Now, I focus on the applied side: AI that ships inside real products and is reliable in production.</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=180&section=header&text=Hi%20there,%20I%27m%20Aamir%20Khan%20%F0%9F%91%8B%F0%9F%8F%BC&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=CS%20Master%27s%20Student%20at%20UC%20Riverside&descSize=16&descColor=ffffff&descAlignY=55" width="100%" alt="Aamir Khan, CS Master's student at UC Riverside" />
+<p>I work on production ML systems that serve millions of predictions a day. My favorite part is digging into why systems misbehave and shipping the fix. Before all this, I taught myself AI by starting with the fundamentals and building projects from scratch.</p>
 </div>
 
-**AI/ML Software Engineering Intern at [Tatari](https://www.tatari.tv/)**, on the Media Intelligence (MINT) team behind their TV ad measurement models. I mostly get ML models into production and keep them reliable. A few things I've worked on:
-- Root-caused and fixed a multi-month production outage that had been quietly failing about 3.9 million predictions a day
-- Built the champion/challenger routing system behind the nightly batch, so shadow models score 3.4M+ rows alongside production for evaluation, then made the run about 45% faster
-- Moved a model onto Databricks serving with the team's standardized MLOps framework
-- Cut our feature database writes roughly in half without affecting any predictions
-- Added inference logging and performance monitoring so problems show up right away and are traceable
+**[Tatari](https://www.tatari.tv/):** AI/ML Software Engineer Intern on the Media Intelligence (MINT) team, behind their TV ad measurement models. I mostly get ML models into production and keep them reliable. A few things I've worked on:
+- Traced and fixed a multi-month production outage that had been quietly failing ~3.9M predictions a day
+- Built the champion/challenger routing behind the nightly batch, so shadow models score 3.4M+ rows alongside production, then made the run ~45% faster
+- Moved a model onto Databricks serving using the team's standardized MLOps framework
+- Cut feature database writes by 49% (7.98M to 4.07M rows) without affecting any predictions
 
-**AI Trainer, ML Specialist** at [**Handshake AI**](https://joinhandshake.com/fellowship-program/) *(Frontier-Lab AI Fellowship, Oct. 2025 - Jun. 2026)* - evaluated image model outputs and designed adversarial prompt suites that uncovered systematic failure modes. Currently also stress-testing pre-release AI products and courses at [**DeepLearning.AI**](https://www.deeplearning.ai/).
+**[Handshake AI](https://joinhandshake.com/fellowship-program/):** AI Trainer / ML Specialist, Frontier-Lab AI Fellowship (Oct 2025 to Jun 2026). Evaluated image model outputs and designed adversarial prompt suites that surfaced systematic failure modes.
 
-**Islamic Studies Instructor** at [**Institute of Knowledge**](https://instituteofknowledge.com/) - weekly teaching that keeps me fluent at explaining hard ideas simply.
+**[DeepLearning.AI](https://www.deeplearning.ai/):** currently stress-testing pre-release AI products and courses as an AI product tester.
 
-**Seeking AI/ML + software engineering internships and new grad roles for Fall 2026 and beyond.** 
+**[Institute of Knowledge](https://instituteofknowledge.com/):** Islamic Studies Instructor (through Aug 2026). Weekly teaching that kept me fluent at explaining hard ideas simply.
+
+**Seeking AI/ML and software engineering internships and new grad roles for Winter 2027 and beyond.**
 
 <br>
 
