@@ -1,6 +1,6 @@
 <div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=180&section=header&text=Hi%20there,%20I%27m%20Aamir%20Khan%20%F0%9F%91%8B%F0%9F%8F%BC&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=CS%20Master%27s%20Student%20at%20UC%20Riverside&descSize=16&descColor=ffffff&descAlignY=55" width="100%" alt="Aamir Khan, CS Master's student at UC Riverside" />
-<p>I work on production ML systems that serve millions of predictions a day. My favorite part is digging into why systems misbehave and shipping the fix. Before all this, I taught myself AI by starting with the fundamentals and building projects from scratch.</p>
+<p>I work on production ML systems that serve millions of predictions a day. I really enjoy digging into why systems misbehave, and I'd say that my strength lies in my debugging skills. Before all this, I taught myself AI by starting with the fundamentals and building projects from scratch.</p>
 </div>
 
 **[Tatari](https://www.tatari.tv/):** AI/ML Software Engineer Intern on the Media Intelligence (MINT) team, behind their TV ad measurement models. I mostly get ML models into production and keep them reliable. A few things I've worked on:
@@ -13,7 +13,7 @@
 
 **[DeepLearning.AI](https://www.deeplearning.ai/):** currently stress-testing pre-release AI products and courses as an AI product tester.
 
-**[Institute of Knowledge](https://instituteofknowledge.com/):** Islamic Studies Instructor (through Aug 2026). Weekly teaching that kept me fluent at explaining hard ideas simply.
+**[Institute of Knowledge](https://instituteofknowledge.com/):** Islamic Studies Instructor (Sept 2023 to Aug 2026). Weekly teaching that kept me fluent at explaining hard ideas simply.
 
 **Seeking AI/ML and software engineering internships and new grad roles for Winter 2027 and beyond.**
 
