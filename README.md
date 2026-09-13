@@ -3,7 +3,7 @@
 <p>I work on production ML systems that serve millions of predictions a day. I really enjoy digging into why systems misbehave, and I'd say that my strength lies in my debugging skills. Before all this, I taught myself AI by starting with the fundamentals and building projects from scratch.</p>
 </div>
 
-**[Tatari](https://www.tatari.tv/):** AI/ML Software Engineer Intern on the Media Intelligence (MINT) team, behind their TV ad measurement models. I mostly get ML models into production and keep them reliable. A few things I've worked on:
+**[Tatari](https://www.tatari.tv/):** AI/ML Software Engineer Intern on the Media Intelligence (MINT) team, behind their TV ad measurement models. I work on the production side of our AI: shipping it, watching it, and testing new models without risking what customers see. A few things I've worked on:
 - Traced and fixed a multi-month production outage that had been quietly failing ~3.9M predictions a day
 - Built the champion/challenger routing behind the nightly batch, so shadow models score 3.4M+ rows alongside production, then made the run ~45% faster
 - Moved a model onto Databricks serving using the team's standardized MLOps framework
