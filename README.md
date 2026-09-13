@@ -5,6 +5,7 @@
 
 **[Tatari](https://www.tatari.tv/):** AI/ML Software Engineer Intern on the Media Intelligence (MINT) team, behind their TV ad measurement models. I work on the production side of our AI: shipping it, watching it, and testing new models without risking what customers see. A few things I've worked on:
 - Traced and fixed a multi-month production outage that had been quietly failing ~3.9M predictions a day
+- Benchmarked a new video processing mode in our Gemini pipeline, advertised at 88% fewer tokens, measured it failing 22% of the time at ~15x the tokens, and recommended against adopting it
 - Built the champion/challenger routing behind the nightly batch, so shadow models score 3.4M+ rows alongside production, then made the run ~45% faster
 - Moved a model onto Databricks serving using the team's standardized MLOps framework
 - Cut feature database writes by 49% (7.98M to 4.07M rows) without affecting any predictions
