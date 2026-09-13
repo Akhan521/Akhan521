@@ -8,8 +8,7 @@
 - Revived an LLM service that flags TV ads likely to fail network compliance, validated against 84 ads networks had already rejected, by diagnosing why it had never run in production and writing its detection prompts
 - Benchmarked a new video processing mode in our Gemini pipeline, advertised at 88% fewer tokens, measured it failing 22% of the time at ~15x the tokens, and recommended against adopting it
 - Built a champion/challenger routing system that scores 3.4M+ rows against new models nightly without any of it reaching a customer, then cut that run from 145 minutes to 80 by running the models concurrently
-- Moved a model onto Databricks serving using the team's standardized MLOps framework
-- Cut writes to a production database by 49% after reading the code and proving an entire category of data was never used by any model
+- Cut writes to a production database by 49% (7.98M to 4.07M rows) after reading the code and proving an entire category of data was never used by any model
 
 **[Handshake AI](https://joinhandshake.com/fellowship-program/):** AI Trainer / ML Specialist, Frontier-Lab AI Fellowship (Oct 2025 to Jun 2026). Evaluated image model outputs and designed adversarial prompt suites that surfaced systematic failure modes.
 
