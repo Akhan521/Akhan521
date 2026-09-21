@@ -27,7 +27,7 @@
 <br>
 
 **Core**<br>
-`Python` · `PyTorch` · `LLMs / RAG / Fine-Tuning` · `AI Agents` · `LangChain / LangGraph` · `MCP` · `FastAPI`
+`Python` · `PyTorch` · `LLMs / RAG / Fine-Tuning` · `Prompt Engineering` · `LLM Evaluation` · `AI Agents` · `LangChain / LangGraph` · `MCP` · `FastAPI`
 
 **Production & MLOps**<br>
 `Databricks` · `Model Serving` · `Shadow Deployment` · `ML Monitoring` · `MLflow` · `Airflow` · `CI/CD` · `Docker` · `Hugging Face`
