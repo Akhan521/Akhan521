@@ -1,6 +1,6 @@
 <div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=180&section=header&text=Hi%20there,%20I%27m%20Aamir%20Khan%20%F0%9F%91%8B%F0%9F%8F%BC&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=CS%20Master%27s%20Student%20at%20UC%20Riverside&descSize=16&descColor=ffffff&descAlignY=55" width="100%" alt="Aamir Khan, CS Master's student at UC Riverside" />
-<p>I work on production AI/ML systems that serve millions of predictions a day. I really enjoy digging into why they misbehave, and I'd say that my strength lies in my debugging skills. I got into AI by teaching myself the fundamentals and building projects from scratch.</p>
+<p>I work on production AI/ML systems that serve millions of predictions a day. I really enjoy digging into why they misbehave, and I'd say that my strength lies in my debugging skills. I've also gotten into AI agents lately, and making one behave reliably is a problem that really interests me.</p>
 </div>
 
 **[Tatari](https://www.tatari.tv/):** AI/ML Software Engineer Intern on the Media Intelligence (MINT) team, behind their TV ad measurement models. I work on the production side of our AI: shipping it, watching it, and testing new models without risking what customers see. A few things I've worked on:
