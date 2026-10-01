@@ -48,10 +48,3 @@
 | **[bat-code](https://github.com/Akhan521/bat-code)** *(in progress)* | Deep Agents, LangGraph | Batman-themed coding TUI built on the Deep Agents library. Turning a capable agent into a coding tool you actually want to keep open. | Soon |
 | **[Text2SQL LLaMA Analyst](https://github.com/Akhan521/Text2SQL-LLaMA-Analyst)** | LLaMA-2, LoRA, 4-bit Quantization | Fine-tuned LLaMA-2-7B with LoRA and 4-bit quantization to turn plain English into SQL queries you can actually run. | [Demo](https://colab.research.google.com/drive/1ISQ9jpYCEMQQ6WSKRqF60p3ZIEsJuuFo?usp=sharing) |
 
----
-
-<h2 align="center">Beyond Code</h2>
-
-When I'm not coding or teaching, I'm probably grabbing boba with friends, skating around campus, building a LEGO set, getting lost in a good book, or gaming cozily (Pokopia is my jam!).
-
----
