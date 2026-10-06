@@ -16,7 +16,7 @@
 
 **[Institute of Knowledge](https://instituteofknowledge.com/):** Islamic Studies Instructor (Sept 2023 to Aug 2026). Weekly teaching that kept me fluent at explaining hard ideas simply.
 
-**[CodePath](https://codepath.org/):** Completed *Foundations of AI Engineering*, a course run in partnership with Anthropic covering AI agent development, prompt engineering, and LLM integration.
+**[CodePath](https://codepath.org/):** Completed *Foundations of AI Engineering*, a course run in partnership with Anthropic covering AI agent development, prompt engineering, and LLM integration. Currently taking the *AI Open Source Capstone*, covering open source contribution, AI-assisted development in unfamiliar codebases, and evaluating AI tools.
 
 **Seeking AI/ML and software engineering internships and new grad roles for Winter 2027 and beyond.**
 
