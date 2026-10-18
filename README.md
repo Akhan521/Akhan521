@@ -1,14 +1,13 @@
 <div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=180&section=header&text=Hi%20there,%20I%27m%20Aamir%20Khan%20%F0%9F%91%8B%F0%9F%8F%BC&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=CS%20Master%27s%20Student%20at%20UC%20Riverside&descSize=16&descColor=ffffff&descAlignY=55" width="100%" alt="Aamir Khan, CS Master's student at UC Riverside" />
-<p>I work on production AI/ML systems that serve millions of predictions a day. I really enjoy digging into why they misbehave, and I'd say that my strength lies in my debugging skills. I've also gotten into AI agents lately, and making one behave reliably is a problem that really interests me.</p>
+<p>I work on production AI/ML systems that serve millions of predictions a day. I really enjoy digging into why systems misbehave, and I'd say that my strength lies in my debugging skills. I've been working with AI agents and making one behave reliably is a problem that really interests me.</p>
 </div>
 
 **[Tatari](https://www.tatari.tv/):** AI/ML Software Engineer Intern on the Media Intelligence (MINT) team, behind their TV ad measurement models. I work on the production side of our AI: shipping it, watching it, and testing new models without risking what customers see. A few things I've worked on:
 - Found a four-month-old bug that had been quietly returning nothing for ~3.9M data lookups a day, by comparing how the data was being saved against how it was being read, and fixed it before it reached real traffic
 - Revived an LLM service that flags TV ads likely to fail network compliance, validated against 84 ads networks had already rejected, by diagnosing why it had never run in production and writing its detection prompts
 - Benchmarked a new video processing mode in our Gemini pipeline, advertised at 88% fewer tokens, measured it failing 22% of the time at ~15x the tokens, and recommended against adopting it
-- Built a champion/challenger routing system that scores 3.4M+ rows against new models nightly without any of it reaching a customer, then cut that run from 145 minutes to 80 by running the models concurrently
-- Cut writes to a production database by 49% (7.98M to 4.07M rows) after reading the code and proving an entire category of data was never used by any model
+- Built a champion/challenger inference routing system that scores 3.4M+ rows against new models nightly, then cut that run from 145 minutes to 80 by running the models concurrently
 
 **[Handshake AI](https://joinhandshake.com/fellowship-program/):** AI Trainer / ML Specialist, Frontier-Lab AI Fellowship (Oct 2025 to Jun 2026). Evaluated image model outputs and designed adversarial prompt suites that surfaced systematic failure modes.
 
@@ -18,7 +17,7 @@
 
 **[CodePath](https://codepath.org/):** Completed *Foundations of AI Engineering*, a course run in partnership with Anthropic covering AI agent development, prompt engineering, and LLM integration. Currently taking the *AI Open Source Capstone*, covering open source contribution, AI-assisted development in unfamiliar codebases, and evaluating AI tools.
 
-**Seeking AI/ML and software engineering internships and new grad roles for Winter 2027 and beyond.**
+**Seeking AI/ML and software engineering new grad roles for Winter 2027 and beyond.**
 
 <br>
 
